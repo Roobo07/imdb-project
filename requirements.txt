@@ -1,7 +1,7 @@
-# Core
+# Streamlit for web app
 streamlit
 
-# Data
+# Data handling
 pandas
 numpy
 
@@ -10,13 +10,12 @@ matplotlib
 seaborn
 plotly
 
-# Database
+# Database / SQL
 sqlalchemy
 
-# HTTP / scraping
+# Web requests / scraping
 requests
 beautifulsoup4
 
-# Optional
+# Optional / environment management
 python-dotenv
-

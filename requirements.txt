@@ -1,4 +1,4 @@
-# Streamlit for web app
+# Streamlit app
 streamlit
 
 # Data handling

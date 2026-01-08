@@ -1,6 +1,22 @@
+# Core
+streamlit
+
+# Data
 pandas
 numpy
+
+# Visualization
 matplotlib
 seaborn
-streamlit
-sqlite3-binary
+plotly
+
+# Database
+sqlalchemy
+
+# HTTP / scraping
+requests
+beautifulsoup4
+
+# Optional
+python-dotenv
+

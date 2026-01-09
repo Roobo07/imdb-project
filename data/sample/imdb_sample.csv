@@ -1,6 +1,31 @@
-title,year,rating,genre
-Inception,2010,8.8,Sci-Fi
-Titanic,1997,7.9,Romance
-Avatar,2009,7.8,Fantasy
-The Dark Knight,2008,9.0,Action
-Interstellar,2014,8.6,Sci-Fi
+title,year,genre,rating,votes,runtime_minutes
+Dune Part Two,2024,Sci-Fi,8.9,920000,166
+Deadpool & Wolverine,2024,Action,8.2,610000,127
+Inside Out 2,2024,Animation,8.5,740000,96
+Furiosa A Mad Max Saga,2024,Action,8.1,450000,148
+Kingdom of the Planet of the Apes,2024,Sci-Fi,7.6,390000,145
+Civil War,2024,Drama,7.4,210000,109
+Godzilla x Kong The New Empire,2024,Action,7.3,520000,115
+The Fall Guy,2024,Action,7.5,360000,126
+Kung Fu Panda 4,2024,Animation,7.2,280000,94
+A Quiet Place Day One,2024,Horror,7.8,310000,100
+Challengers,2024,Drama,7.9,250000,131
+Monkey Man,2024,Action,7.7,180000,121
+The Garfield Movie,2024,Animation,6.8,190000,101
+Twisters,2024,Adventure,7.4,220000,122
+Gladiator II,2024,Drama,8.0,410000,155
+Joker Folie à Deux,2024,Drama,8.3,530000,138
+Alien Romulus,2024,Horror,7.9,260000,119
+Beetlejuice Beetlejuice,2024,Comedy,7.6,230000,104
+Despicable Me 4,2024,Animation,7.1,330000,98
+Venom The Last Dance,2024,Action,7.3,290000,112
+The Crow,2024,Action,6.9,170000,111
+Borderlands,2024,Sci-Fi,6.7,160000,110
+Mufasa The Lion King,2024,Animation,7.8,420000,118
+Bad Boys Ride or Die,2024,Action,7.4,350000,124
+The Watchers,2024,Horror,6.8,140000,102
+Horizon An American Saga,2024,Drama,7.5,200000,181
+IF,2024,Fantasy,7.2,210000,104
+Transformers One,2024,Animation,7.6,270000,108
+The Ministry of Ungentlemanly Warfare,2024,Action,7.8,190000,120
+Argylle,2024,Action,6.6,230000,139

@@ -1,110 +1,107 @@
 import streamlit as st
-import sqlite3
 import pandas as pd
-import matplotlib.pyplot as plt
 import os
 
+# ------------------------------
+# App config
+# ------------------------------
 st.set_page_config(
-    page_title="IMDb 2024 Movies Dashboard",
+    page_title="IMDb Movie Analysis",
     layout="wide"
 )
 
-st.title("🎬 IMDb 2024 Movies Analysis Dashboard")
+st.title("🎬 IMDb Movie Data Analysis")
 
-DB_PATH = "imdb_2024.db"
+# ------------------------------
+# Helper: detect Streamlit Cloud
+# ------------------------------
+def running_on_streamlit_cloud():
+    return os.getenv("STREAMLIT_CLOUD") == "true" or os.path.exists("/mount/src")
 
+# ------------------------------
+# Data paths
+# ------------------------------
+RAW_DATA_PATH = "data/raw/title.basics.tsv.gz"
+SAMPLE_DATA_PATH = "data/sample/title_basics_sample.csv"
+
+# ------------------------------
+# Load data safely
+# ------------------------------
 @st.cache_data
 def load_data():
-    if not os.path.exists(DB_PATH):
-        st.error(f"Database not found: {DB_PATH}")
-        st.stop()
+    if os.path.exists(RAW_DATA_PATH):
+        st.success("Loaded full IMDb dataset")
+        return pd.read_csv(
+            RAW_DATA_PATH,
+            sep="\t",
+            compression="gzip",
+            low_memory=False
+        )
 
-    conn = sqlite3.connect(DB_PATH)
-    df = pd.read_sql("SELECT * FROM movies", conn)
-    conn.close()
-    return df
+    elif os.path.exists(SAMPLE_DATA_PATH):
+        st.warning("Using sample dataset (Streamlit Cloud mode)")
+        return pd.read_csv(SAMPLE_DATA_PATH)
+
+    else:
+        st.error("❌ No dataset found")
+        return None
 
 df = load_data()
 
-# ---------------- SIDEBAR FILTERS ----------------
-st.sidebar.header("🎛 Filters")
+if df is None:
+    st.stop()
 
-all_genres = sorted(
-    set(
-        g.strip()
-        for genres in df["genre"].dropna().str.split(",")
-        for g in genres
-    )
-)
+# ------------------------------
+# Basic cleaning
+# ------------------------------
+df = df[df["titleType"] == "movie"]
+df = df[df["startYear"] != "\\N"]
+df["startYear"] = df["startYear"].astype(int)
 
-selected_genres = st.sidebar.multiselect(
-    "Select Genres", all_genres, default=all_genres
-)
+# ------------------------------
+# Sidebar filters
+# ------------------------------
+st.sidebar.header("🔎 Filters")
 
-min_rating = st.sidebar.slider("Minimum Rating", 0.0, 10.0, 5.0, 0.1)
-min_votes = st.sidebar.number_input("Minimum Votes", 0, value=1000, step=1000)
-
-min_dur, max_dur = st.sidebar.slider(
-    "Duration (minutes)", 0, 300, (60, 180)
+year_range = st.sidebar.slider(
+    "Release Year",
+    int(df["startYear"].min()),
+    int(df["startYear"].max()),
+    (2000, 2022)
 )
 
 filtered_df = df[
-    (df["rating"] >= min_rating) &
-    (df["votes"] >= min_votes) &
-    (df["duration_minutes"].between(min_dur, max_dur))
+    (df["startYear"] >= year_range[0]) &
+    (df["startYear"] <= year_range[1])
 ]
 
-filtered_df = filtered_df[
-    filtered_df["genre"].apply(
-        lambda x: any(g in x for g in selected_genres)
-        if isinstance(x, str) else False
-    )
-]
+# ------------------------------
+# Metrics
+# ------------------------------
+col1, col2, col3 = st.columns(3)
 
-# ---------------- METRICS ----------------
-c1, c2, c3 = st.columns(3)
+col1.metric("Total Movies", len(filtered_df))
+col2.metric("Earliest Year", filtered_df["startYear"].min())
+col3.metric("Latest Year", filtered_df["startYear"].max())
 
-c1.metric("🎥 Movies", len(filtered_df))
-c2.metric("⭐ Avg Rating", round(filtered_df["rating"].mean(), 2))
-c3.metric("⏱ Avg Duration", round(filtered_df["duration_minutes"].mean(), 1))
+# ------------------------------
+# Visualization
+# ------------------------------
+st.subheader("📊 Movies Released Per Year")
 
-# ---------------- TOP MOVIES ----------------
-st.subheader("🏆 Top 10 Movies")
+movies_per_year = (
+    filtered_df
+    .groupby("startYear")
+    .size()
+    .reset_index(name="count")
+)
 
-top10 = filtered_df.sort_values("rating", ascending=False).head(10)
-st.dataframe(top10, use_container_width=True)
+st.bar_chart(
+    movies_per_year.set_index("startYear")
+)
 
-# ---------------- GENRE DISTRIBUTION ----------------
-st.subheader("🎭 Genre Distribution")
-
-gdf = filtered_df.copy()
-gdf["genre"] = gdf["genre"].str.split(",")
-gdf = gdf.explode("genre")
-gdf["genre"] = gdf["genre"].str.strip()
-
-genre_counts = gdf["genre"].value_counts().head(10)
-
-fig1, ax1 = plt.subplots()
-genre_counts.plot(kind="bar", ax=ax1)
-ax1.set_ylabel("Movies")
-st.pyplot(fig1)
-
-# ---------------- RATING DISTRIBUTION ----------------
-st.subheader("⭐ Rating Distribution")
-
-fig2, ax2 = plt.subplots()
-ax2.hist(filtered_df["rating"].dropna(), bins=20)
-st.pyplot(fig2)
-
-# ---------------- RATING VS VOTES ----------------
-st.subheader("📈 Rating vs Votes")
-
-fig3, ax3 = plt.subplots()
-ax3.scatter(filtered_df["votes"], filtered_df["rating"], alpha=0.5)
-ax3.set_xlabel("Votes")
-ax3.set_ylabel("Rating")
-st.pyplot(fig3)
-
-# ---------------- DATA TABLE ----------------
-st.subheader("📋 Movie Data")
-st.dataframe(filtered_df, use_container_width=True)
+# ------------------------------
+# Data preview
+# ------------------------------
+st.subheader("📄 Data Preview")
+st.dataframe(filtered_df.head(20))

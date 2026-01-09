@@ -1,21 +1,10 @@
-# Streamlit app
-streamlit
-
-# Data handling
-pandas
-numpy
-
-# Visualization
-matplotlib
-seaborn
-plotly
-
-# Database / SQL
-sqlalchemy
-
-# Web requests / scraping
-requests
-beautifulsoup4
-
-# Optional / environment management
-python-dotenv
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.18
+sqlalchemy>=2.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0

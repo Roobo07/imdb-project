@@ -1,33 +1,15 @@
-# --------------------------
-# IGNORE DATA FILES (RAW & PROCESSED)
-# --------------------------
-data/raw/
-data/processed/
-*.tsv
-*.tsv.gz
-*.csv
-*.db
-*.gz
-
-# --------------------------
-# PYTHON SPECIFIC FILES
-# --------------------------
-# Bytecode
+# Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Virtual environments
-venv/
-.venv/
-env/
+# Data (large files)
+data/raw/
+data/processed/
+*.tsv.gz
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Env
+.env
 
-# --------------------------
-# STREAMLIT SPECIFIC / CACHE
-# --------------------------
-.streamlit/
+# OS
+.DS_Store
 

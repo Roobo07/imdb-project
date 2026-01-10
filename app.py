@@ -6,8 +6,7 @@ st.set_page_config(page_title="IMDb 2024 Movies", layout="wide")
 
 st.title("🎬 IMDb 2024 Movies Dashboard")
 
-DATA_PATH = "data/sample/imdb_2024_100_movies.csv"
-
+DATA_PATH = "data/sample/imdb_sample.csv"
 @st.cache_data
 def load_data():
     return pd.read_csv(DATA_PATH)

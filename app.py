@@ -61,6 +61,20 @@ if not filtered_df.empty:
     st.dataframe(top10[display_cols], use_container_width=True)
 else:
     st.warning("No movies match these filters.")
+# ---------------- VISUALIZATIONS ----------------
+if not filtered_df.empty:
+    st.subheader("🎭 Genre Distribution")
+    gdf = filtered_df.copy()
+    gdf["genre"] = gdf["genre"].str.split(",")
+    gdf = gdf.explode("genre").reset_index(drop=True)
+    gdf["genre"] = gdf["genre"].str.strip()
+    genre_counts = gdf["genre"].value_counts().head(10)
+    
+    fig1, ax1 = plt.subplots()
+    genre_counts.plot(kind="bar", ax=ax1, color="skyblue")
+    ax1.set_ylabel("Number of Movies")
+    st.pyplot(fig1)
+
 # ---------------- DATA TABLE ----------------
 st.subheader("📋 Movie Data")
 st.dataframe(filtered_df, use_container_width=True)

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (large files)
+data/raw/
+data/processed/
+*.tsv.gz
+
+# Env
+.env
+
+# OS
+.DS_Store
+
+imdb_2024.db 
+imdb_2024.db 

@@ -1,0 +1,769 @@
+movie_name,genre,rating,votes,duration_minutes
+Nefarious,crime,7.3,62.0,85.0
+Lady Scorpions,crime,3.6,393.0,101.0
+The Lockdown,crime,4.4,663.0,117.0
+Young Lion of the West,crime,5.4,116.0,93.0
+The Mick and the Trick,crime,5.0,92.0,96.0
+The Girl with the Needle,crime,7.5,18743.0,123.0
+Youn'G,crime,8.7,52.0,
+Even the Score,crime,5.2,19.0,
+Marine Drive,crime,9.4,53.0,105.0
+Boneyard,crime,4.1,5855.0,96.0
+Rebel Ridge,crime,6.8,99343.0,131.0
+Team of Two,crime,4.9,120.0,
+Echo 8,crime,5.8,1574.0,95.0
+The Legend of the Vagabond Queen of Lagos,crime,7.6,62.0,100.0
+Filthy Animals,crime,5.0,158.0,96.0
+Three Old Boys,crime,4.8,109.0,108.0
+Breathe,crime,8.5,51.0,
+Namak,crime,4.5,13.0,75.0
+Dead Sea,crime,5.2,5900.0,88.0
+Spending Some Time Together,crime,6.9,31.0,146.0
+Lipstick on the Glass,crime,4.1,14.0,116.0
+The Star City Murders,crime,4.0,162.0,79.0
+Singham Again,crime,4.3,75969.0,144.0
+They Turned Us Into Killers,crime,2.7,281.0,86.0
+Shame,crime,6.9,39.0,103.0
+The Victims,crime,5.8,104.0,99.0
+Ohne Wahrheit,crime,9.2,74.0,133.0
+Hovering Blade,crime,6.1,252.0,107.0
+Hocus Focus,crime,7.9,20.0,85.0
+Hyde Out,crime,5.7,28.0,
+Haunting Trophies,crime,6.1,104.0,150.0
+Andhagan,crime,6.6,1256.0,142.0
+Uno,crime,8.4,37.0,
+The Good Loan Sharks,crime,5.0,79.0,122.0
+Fyre Rises,crime,5.9,334.0,110.0
+Dead Wrong,crime,3.8,333.0,104.0
+The Crow,crime,4.7,40005.0,111.0
+Kingdom Reign,crime,8.3,41.0,119.0
+A Cover-Up,crime,5.4,74.0,121.0
+Dangerous Rumors,crime,7.2,60.0,
+Who Do You Trust?,crime,3.9,50.0,96.0
+Chacaleria,crime,7.8,427.0,116.0
+Last Known Location,crime,5.9,1478.0,110.0
+Anweshippin Kandethum,crime,7.4,11977.0,142.0
+Lady Thug,crime,5.3,29.0,
+Bloodline Killer,crime,4.1,5461.0,105.0
+Wolfs,crime,6.5,98768.0,108.0
+"MoviePass, MovieCrash",crime,6.7,2968.0,96.0
+Midnight Taxi,crime,4.3,131.0,97.0
+Lift,crime,5.6,51587.0,107.0
+"LSD 2: Love, Sex Aur Dhokha 2",crime,3.8,2825.0,119.0
+Reputation,crime,6.2,117.0,83.0
+Orah,crime,7.0,27.0,95.0
+The Brattt,crime,4.2,77.0,117.0
+The Dealer,crime,7.2,15.0,120.0
+The Hostage,crime,4.2,31.0,87.0
+Double or Nothing,crime,7.3,30.0,96.0
+Code 8: Part II,crime,5.7,16731.0,100.0
+Passages of Nexus,crime,5.0,346.0,108.0
+The Hitmen,crime,6.8,8.0,84.0
+"Hemet, or the Landlady Don't Drink Tea",crime,4.4,117.0,89.0
+Opportunity,crime,8.9,108.0,96.0
+The Worst Man in London,crime,5.6,171.0,127.0
+Formed Police Unit,crime,4.6,1533.0,120.0
+Valleyheart,crime,8.2,47.0,98.0
+5lbs of Pressure,crime,5.3,1923.0,111.0
+The Notorious Finster,crime,3.9,195.0,113.0
+The Beekeeper,crime,6.3,173892.0,105.0
+Reloaded 2,crime,6.6,1428.0,45.0
+Bagheera,crime,6.7,8587.0,158.0
+Samhain,crime,7.1,9.0,
+Visfot,crime,5.7,1254.0,130.0
+The Shameless,crime,5.9,378.0,114.0
+Protein,crime,5.1,405.0,100.0
+Maldoror,crime,6.6,1702.0,155.0
+Raavsaheb,crime,8.4,14.0,138.0
+A Whale,crime,5.4,263.0,108.0
+Pepe,crime,5.1,524.0,126.0
+Los Justos,crime,6.5,88.0,79.0
+The Waterboyz,crime,4.8,177.0,89.0
+Ugravatara,crime,8.4,2092.0,122.0
+Perfect Blue,crime,7.8,14.0,
+Grey Games,crime,8.6,743.0,121.0
+Pinwheelz,crime,6.9,19.0,
+One Last Time,crime,7.2,17.0,82.0
+Wanted Man,crime,4.8,2971.0,85.0
+Heart of the Man,crime,6.1,31.0,85.0
+Searching for Amani,crime,7.8,37.0,80.0
+Aaro,crime,4.5,15.0,120.0
+Tatkshan,crime,8.4,22.0,
+Chor Dil,crime,7.5,43.0,135.0
+Unspoken,crime,8.1,47.0,120.0
+Red Night at Skye's,crime,5.9,30.0,82.0
+Road to Terzetto,crime,7.5,138.0,96.0
+Oneness,crime,9.3,22.0,115.0
+Barron's Cove,crime,6.0,1274.0,116.0
+Yaa Devi Sarva Bhuteshu,crime,8.7,9.0,119.0
+M30 OXY,crime,8.7,19.0,
+Agent Jayne,crime,6.7,262.0,
+Rancor,crime,6.6,36.0,83.0
+9 Windows,crime,3.7,356.0,82.0
+Pushpa: The Rule - Part 2,crime,6.1,65049.0,201.0
+Depravity,crime,4.3,1465.0,117.0
+All That Glitters,crime,7.9,54.0,
+Jamalinte Punjiri,crime,8.6,173.0,138.0
+Saint Michael of the City,crime,8.2,37.0,
+The Siege: Archangel One,crime,6.9,8.0,104.0
+Blood Dried Hands,crime,5.1,211.0,115.0
+Best Man Dead Man,crime,6.3,62.0,83.0
+Pungut,crime,7.5,19.0,100.0
+Telekinesis,crime,5.8,65.0,106.0
+Beneath the Fold,crime,7.1,35.0,80.0
+Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,crime,6.2,3103.0,102.0
+High Forces,crime,5.8,703.0,119.0
+Bad Genius,crime,6.3,3159.0,96.0
+Biggest Heist Ever,crime,6.1,1777.0,85.0
+Soch - A perception,crime,8.2,42.0,
+Duchess,crime,4.6,1918.0,114.0
+The Smile Man,crime,7.0,2470.0,122.0
+Somewhere Confidential,crime,9.4,19.0,
+Plea,crime,6.6,33.0,88.0
+Laws of Man,crime,4.6,1564.0,98.0
+Scopophobia,crime,4.4,109.0,100.0
+Welcome to the Game,crime,6.0,73.0,90.0
+Crescent City,crime,3.9,1592.0,103.0
+West End Murders,crime,7.1,22.0,
+The Trainer,crime,5.9,101.0,95.0
+Drugstore June,crime,5.4,2094.0,91.0
+The Wrath of God,crime,7.1,67.0,111.0
+Love Lies Bleeding,crime,6.6,62212.0,104.0
+Texas Twister,crime,2.5,176.0,88.0
+Routa,crime,6.4,37.0,127.0
+Jaspal,crime,7.0,36.0,106.0
+Ulajh,crime,6.0,25532.0,150.0
+Kiss of the Con Queen,crime,7.5,36.0,117.0
+Greedy People,crime,6.2,14429.0,112.0
+Tumbadores,crime,5.4,67.0,
+Emilia Pérez,crime,5.4,111231.0,132.0
+Force of Nature,crime,5.9,9161.0,120.0
+Twilight of the Warriors: Walled In,crime,6.9,11555.0,126.0
+Leha,crime,2.3,46.0,98.0
+A Gangster's Kiss,crime,4.8,54.0,81.0
+Sons of Rizk 3,crime,6.6,1939.0,125.0
+Nico,crime,8.0,54.0,109.0
+The Donor,crime,8.0,14.0,23.0
+Historias invisibles,crime,6.6,35.0,110.0
+Cult Killer,crime,4.8,3263.0,105.0
+Marmalade,crime,6.3,4260.0,99.0
+Carry-On,crime,6.5,187661.0,119.0
+The Clean Up Crew,crime,4.2,1524.0,95.0
+A Reel Heist,crime,5.2,61.0,116.0
+Goon Squad,crime,6.6,24.0,
+Sector 36,crime,7.1,26606.0,123.0
+Full Clip for a Snitch,crime,3.6,20.0,75.0
+Guns & Moses,crime,5.3,753.0,94.0
+Murder and Cocktails,crime,3.9,402.0,88.0
+Boundless,crime,5.6,2538.0,121.0
+The Birds Who Fear Death,crime,8.9,87.0,110.0
+Siren,crime,6.4,3056.0,154.0
+A Question of Guilt,crime,6.0,26.0,
+To a Land Unknown,crime,7.3,1004.0,105.0
+Mun Kaupunki,crime,6.8,25.0,105.0
+La Familia,crime,6.9,59.0,
+MaXXXine,crime,6.2,82426.0,103.0
+Mirza: Part 1 - Joker,crime,6.8,249.0,165.0
+Cookster: The Darkest Days,crime,7.9,51.0,119.0
+Dirty Thirty,crime,2.7,26.0,96.0
+Dirty Money,crime,5.6,259.0,100.0
+Hellhound,crime,4.3,606.0,103.0
+Bogota: City of the Lost,crime,5.4,2326.0,108.0
+Blackwater Lane,crime,4.6,2912.0,108.0
+Strictly Confidential,crime,2.8,940.0,94.0
+Where Is Gilgamesh?,crime,8.9,640.0,90.0
+The Silent Hour,crime,6.1,9766.0,99.0
+Tillu Square,crime,6.6,3605.0,137.0
+The Message,crime,7.3,43.0,
+Above the Trees,crime,6.9,18.0,125.0
+Darkness of Man,crime,4.7,3448.0,109.0
+Longlegs,crime,6.6,214770.0,101.0
+Sangharshana,crime,7.4,1587.0,102.0
+Harbin,crime,6.3,1748.0,108.0
+Nirangal Moondru,crime,6.1,657.0,122.0
+Sattam En Kaiyil,crime,7.7,2354.0,124.0
+Assault in Progress,crime,7.5,19.0,99.0
+The Heist,crime,6.8,2048.0,120.0
+PT Sir,crime,6.8,1829.0,130.0
+"Extraction, USA",crime,7.3,77.0,
+Trouble in Mocoville,crime,8.0,13.0,
+Desert Fiends,crime,4.2,1122.0,106.0
+The Instigators,crime,6.2,41443.0,101.0
+Wicked Season,crime,4.4,80.0,85.0
+City Hunter,crime,6.3,6018.0,102.0
+Love You to Debt,crime,6.2,814.0,135.0
+Seeruwen,crime,5.0,13.0,
+King Ivory,crime,6.2,925.0,130.0
+Viduthalai Part 2,crime,7.6,18115.0,170.0
+Phir Aayi Hasseen Dillruba,crime,5.8,7280.0,132.0
+Raayan,crime,6.5,13579.0,145.0
+Quotation Gang Part 1,crime,8.8,40.0,118.0
+Ride,crime,5.9,500.0,114.0
+The Final: Attack on Wembley,crime,6.3,2690.0,82.0
+Yathabhava,crime,8.3,30.0,127.0
+Insurance Jimmy,crime,6.5,151.0,110.0
+First Shift,crime,4.5,2345.0,89.0
+Old Guy,crime,5.3,5320.0,94.0
+Dead Mail,crime,6.0,3168.0,106.0
+Thankamani,crime,4.5,245.0,156.0
+The Stix,crime,7.6,36.0,123.0
+Maharaja,crime,8.3,78289.0,141.0
+The Plot,crime,4.8,508.0,100.0
+The Order,crime,6.8,58674.0,116.0
+Gumbo 2,crime,6.8,15.0,
+Auron Mein Kahan Dum Tha,crime,6.3,41199.0,150.0
+Death Will Come,crime,6.0,45.0,101.0
+Jigra,crime,6.0,24814.0,153.0
+Bheema,crime,5.6,1014.0,148.0
+Trap,crime,5.8,157204.0,105.0
+Cafe 404,crime,4.9,202.0,93.0
+My Fault,crime,4.2,7388.0,120.0
+Saripodhaa Sanivaaram,crime,7.1,13177.0,166.0
+Secret Home,crime,8.1,152.0,117.0
+High Rise 3: Run to Peril,crime,8.4,9.0,
+Kingsmen,crime,6.1,71.0,72.0
+Vettaiyan,crime,6.9,41013.0,163.0
+The Thundermans Return,crime,5.0,2055.0,70.0
+Borderless Fog,crime,5.2,1418.0,110.0
+The Courier,crime,6.0,5523.0,101.0
+Saindhav,crime,5.0,1692.0,138.0
+The Experts,crime,6.2,345.0,121.0
+Vampire's House of Cain,crime,3.6,22.0,
+The Desperate Chase,crime,5.8,100.0,110.0
+Deadly Ruphoria,crime,5.9,43.0,90.0
+Sorgavaasal,crime,6.6,1517.0,138.0
+Passport,crime,7.8,26.0,
+Please Don't Feed the Children,crime,4.6,1394.0,94.0
+Snatched,crime,5.7,549.0,101.0
+Damaged,crime,4.7,8324.0,97.0
+Miséria,crime,4.2,111.0,99.0
+Dead Name,crime,7.6,16.0,84.0
+Gangs of Godavari,crime,4.9,940.0,165.0
+Gold Boy,crime,6.4,167.0,129.0
+Yalakunni,crime,8.4,178.0,135.0
+Public Defender,crime,8.0,21.0,
+Juror #2,crime,7.0,120084.0,114.0
+Killer Heat,crime,5.6,15012.0,95.0
+Gally Gang Stars,crime,9.0,2051.0,157.0
+Swing Bout,crime,8.4,197.0,90.0
+DNA,crime,5.3,234.0,156.0
+Helen Razor,crime,5.0,11.0,
+Abigail,crime,6.5,110731.0,109.0
+Beating Hearts,crime,7.0,7674.0,166.0
+Sons,crime,6.4,2917.0,100.0
+Thalavan,crime,7.2,6764.0,131.0
+Pattaya Heat,crime,5.6,235.0,117.0
+"Fallen Leaves, Broken Lighters",crime,8.0,9.0,96.0
+Faultline,crime,4.9,162.0,92.0
+Lucky Baskhar,crime,8.0,39912.0,148.0
+Corpórea,crime,6.2,11.0,
+Colors of Evil: Red,crime,6.4,9262.0,111.0
+Bogus Phone Operators,crime,8.8,6.0,
+Diamondz R 4Eva,crime,1.6,14.0,
+The Pee Pee Poo Poo Man,crime,6.0,97.0,79.0
+Taxali Gate,crime,6.7,174.0,95.0
+Dheera Samrat,crime,9.7,100.0,123.0
+Metamorfosi dell'essere,crime,6.8,101.0,105.0
+Jackpot,crime,6.2,5.0,
+Harom Hara,crime,6.6,3099.0,154.0
+Hit List,crime,5.7,387.0,125.0
+Suspect,crime,4.9,160.0,94.0
+"Bullets, Brothers and Blood",crime,7.8,16.0,85.0
+Zebra,crime,7.1,3648.0,164.0
+Baby John,crime,5.0,19232.0,159.0
+Riff Raff,crime,5.7,7925.0,103.0
+The Roundup: Punishment,crime,6.6,6458.0,109.0
+Kurukku,crime,6.2,550.0,109.0
+Abraham Ozler,crime,6.6,5219.0,143.0
+Belle,crime,5.4,268.0,100.0
+Take Good Care,crime,6.1,10.0,101.0
+Accident or Conspiracy: Godhra,crime,7.0,898.0,133.0
+Raktaksha,crime,6.3,2378.0,118.0
+Ma Este Gyilkolunk,crime,5.1,751.0,
+Bhakshak,crime,7.2,7444.0,134.0
+RapeD,crime,7.1,29.0,105.0
+IC9,crime,8.0,8.0,120.0
+Bermondsey Tales: Fall of the Roman Empire,crime,4.0,247.0,99.0
+Sayara,crime,5.6,522.0,98.0
+Supplier Shankara,crime,9.3,73.0,163.0
+Do Patti,crime,6.3,70339.0,126.0
+Cursed in Baja,crime,6.3,42.0,80.0
+Satyabhama,crime,5.8,1612.0,132.0
+Midas,crime,4.7,368.0,85.0
+Seeds,crime,5.1,332.0,82.0
+Charlotte Link - Ohne Schuld,crime,5.5,46.0,89.0
+Bastar: The Naxal Story,crime,6.4,3413.0,124.0
+Laandhar,crime,4.2,101.0,117.0
+Kill the Jockey,crime,6.3,2763.0,96.0
+Matka,crime,4.7,636.0,156.0
+Estômago II: O Poderoso Chef,crime,5.8,400.0,131.0
+Blackia 2,crime,5.5,139.0,132.0
+Mr. Bachchan,crime,3.6,5409.0,150.0
+Revolver,crime,5.5,1155.0,114.0
+The Infallibles,crime,4.8,825.0,99.0
+Sicilian Letters,crime,6.0,1099.0,122.0
+Castillo,crime,8.0,41.0,128.0
+The Shadow Strays,crime,6.5,10667.0,144.0
+High Like a Butterfly,crime,7.2,13.0,
+Un homme en fuite,crime,5.5,205.0,106.0
+Blood Star,crime,6.1,6674.0,97.0
+The Brokenhearted,crime,7.3,35.0,
+Con Queens,crime,6.3,30.0,80.0
+Officer Black Belt,crime,6.9,9926.0,108.0
+The Park Maniac,crime,4.8,1729.0,103.0
+Silence 2: The Night Owl Bar Shootout,crime,6.2,1987.0,142.0
+Sentimentaaal,crime,4.7,979.0,135.0
+(Pri)sons,crime,4.8,335.0,100.0
+Killcon,crime,5.3,49.0,31.0
+Fatal Dispatch,crime,7.0,17.0,
+Sheriff,crime,6.9,1287.0,133.0
+Operation Raavan,crime,7.7,1248.0,147.0
+Tricks,crime,7.3,14.0,
+Passagrana,crime,6.4,165.0,100.0
+10 Days of a Curious Man,crime,5.7,1499.0,110.0
+Gull Lake Vice II: The Delusion Continues,crime,8.4,20.0,58.0
+The Soul Eater,crime,5.8,3566.0,108.0
+Two to One,crime,6.1,1212.0,116.0
+Vina: Before 7 Days,crime,5.4,732.0,100.0
+Jog 101,crime,6.6,506.0,107.0
+Prepare to Die,crime,4.3,281.0,93.0
+Jalandhara,crime,8.8,546.0,110.0
+Gam Gam Ganesha,crime,5.3,332.0,140.0
+Three Days or Else,crime,4.6,63.0,
+Bars,crime,5.3,34.0,135.0
+Moon,crime,6.5,1006.0,92.0
+Chitram Choodara,crime,4.5,15.0,127.0
+The Moon Thieves,crime,6.0,318.0,108.0
+Uch Qahramon,crime,7.2,128.0,
+Armor,crime,3.6,5403.0,89.0
+GTMax,crime,5.0,1421.0,100.0
+Undercover,crime,7.1,5757.0,118.0
+Golam,crime,7.2,7297.0,120.0
+Nunakuzhi,crime,6.8,4276.0,125.0
+Nice Girls,crime,4.3,1320.0,92.0
+Here Now,crime,5.0,695.0,118.0
+No Loose Ends,crime,6.8,10.0,68.0
+Serpent's Path,crime,5.7,411.0,112.0
+Innocent Shots,crime,2.2,19.0,
+Kenda,crime,8.0,25.0,135.0
+Preminchoddu : Don't Love,crime,7.7,1520.0,177.0
+Bunny & Clive,crime,2.1,39.0,76.0
+Common Creed: Trafficking,crime,7.3,18.0,106.0
+Thozhar Che Guevara,crime,5.1,37.0,120.0
+Marco,crime,6.6,25019.0,145.0
+Money No Enough 3,crime,6.0,275.0,138.0
+Shadows of Betrayal: Chronicles of Ian Blair,crime,7.3,18.0,65.0
+Find Me,crime,5.2,24.0,
+Inside,crime,6.4,1192.0,104.0
+Rats!,crime,6.5,321.0,85.0
+Blue Ice,crime,8.9,24.0,
+Pani,crime,6.9,3746.0,143.0
+The Cold Father,crime,6.8,20.0,
+Mina and the Radio Bandits,crime,7.2,49.0,110.0
+Lake George,crime,6.5,2019.0,118.0
+Abduction Chronicles,crime,8.5,40.0,126.0
+Murder in the Village: Who Killed the Doctor's Wife?,crime,5.8,72.0,
+Gumasthan,crime,5.9,597.0,145.0
+Six Days,crime,5.8,497.0,95.0
+Crack: Back in Da Hood,crime,4.5,61.0,82.0
+Beauty Grace Malice,crime,7.6,47.0,81.0
+Jönssonligan kommer tillbaka,crime,5.8,1838.0,104.0
+Runnin' from Wolves,crime,6.6,12.0,133.0
+Holiday Hold-Up,crime,5.4,95.0,89.0
+Badland Hunters,crime,5.9,13215.0,107.0
+Niyathi,crime,6.6,175.0,113.0
+Cubic Zirconia,crime,7.0,81.0,
+Killer Babes,crime,3.5,324.0,94.0
+Lembayung,crime,5.9,878.0,123.0
+Indelebile,crime,8.9,10.0,
+Netru Indha Neram,crime,5.4,137.0,140.0
+Liebling Kreuzberg 2.0,crime,5.4,59.0,89.0
+Kondal,crime,5.3,832.0,147.0
+Gossip to Die For,crime,5.3,97.0,94.0
+Aranam,crime,7.5,402.0,127.0
+It All Ends Here,crime,6.3,423.0,89.0
+Ferry 2,crime,5.6,4209.0,94.0
+Dhakshina,crime,5.4,5185.0,107.0
+Trouble,crime,6.2,7701.0,98.0
+Black Box Diaries,crime,7.5,4289.0,102.0
+More Than the Streets,crime,3.5,14.0,
+Final Heist,crime,4.2,169.0,83.0
+The Calendar Killer,crime,5.5,4911.0,97.0
+Porch Pirates,crime,5.0,117.0,107.0
+Detroit Ransom,crime,6.6,13.0,76.0
+Citizen of a Kind,crime,6.7,1084.0,114.0
+Ata Nirjon Duporiya,crime,8.0,9.0,103.0
+Poslednji strelac,crime,5.4,302.0,90.0
+Toofan,crime,7.3,8992.0,145.0
+Case of Kondana,crime,5.8,775.0,143.0
+Santosh,crime,7.1,3367.0,128.0
+Summer Will Come,crime,5.4,69.0,94.0
+Muzhskoe slovo,crime,6.3,470.0,94.0
+Mission: Cross,crime,6.1,2892.0,105.0
+Rangeli,crime,9.0,120.0,140.0
+Conquer: Lahad Datu,crime,6.5,616.0,120.0
+Blood and Black,crime,6.6,1125.0,88.0
+Dream Team,crime,4.9,77.0,91.0
+The Real Story of January 6: Part 2 - The Long Road Home,crime,6.2,30.0,90.0
+Water Mafia,crime,9.0,17.0,45.0
+Vicheyam,crime,8.8,14.0,
+Bodiless,crime,5.7,1253.0,90.0
+Blue Christmas,crime,5.9,25.0,79.0
+Pinnil Oral,crime,8.3,1722.0,127.0
+Guess Who,crime,4.8,384.0,93.0
+The Burned Hand,crime,7.3,13.0,85.0
+Plastic Guns,crime,6.2,724.0,95.0
+Beverly Hills Cop: Axel F,crime,6.4,85775.0,118.0
+Dead Man,crime,5.1,232.0,109.0
+Whatever It Takes,crime,7.8,42.0,93.0
+My Sextortion Diary,crime,6.5,62.0,64.0
+Dickweed,crime,7.0,52.0,90.0
+Chithini,crime,5.9,555.0,151.0
+A Valentine's Day,crime,8.4,8.0,126.0
+Tiger Wolf Rabbit,crime,6.6,731.0,126.0
+Lover Stalker Killer,crime,7.0,14337.0,90.0
+Once Upon a Time in the East,crime,6.5,379.0,150.0
+The Sabarmati Report,crime,6.4,25435.0,127.0
+Shakhahaari,crime,7.5,1432.0,145.0
+Scorched Earth,crime,6.6,843.0,101.0
+Rob N Roll,crime,6.1,1590.0,98.0
+Detective Conan vs. Kid the Phantom Thief,crime,6.1,184.0,81.0
+Mudo Kannu,crime,7.8,2116.0,100.0
+Dutch II: Angel's Revenge,crime,6.5,116.0,
+Dark Deceptions,crime,6.0,43.0,82.0
+Get Close 2,crime,5.6,51.0,
+Samandar,crime,7.7,143.0,172.0
+Novyy god v Beryozovke,crime,6.7,111.0,94.0
+They Called Him Mostly Harmless,crime,5.9,3499.0,89.0
+Mukhya Gamanika,crime,8.6,2087.0,125.0
+The Kills,crime,8.8,12.0,70.0
+Baba Yaga,crime,4.9,13.0,
+Havnaa,crime,6.8,527.0,110.0
+The Essex Boys Tapes,crime,5.7,8.0,
+The Housewife and the Hustler 2: The Reckoning,crime,6.5,49.0,94.0
+The Bitter Sugar,crime,6.1,34.0,92.0
+Desperado,crime,5.9,177.0,100.0
+Bangkok Breaking: Heaven and Hell,crime,5.8,738.0,146.0
+The Shadow,crime,6.3,382.0,90.0
+Miss Merkel - Ein Uckermark-Krimi 2,crime,6.3,22.0,
+The Truth vs. Alex Jones,crime,7.5,3239.0,121.0
+Der Parkhausmord - Wer tötete Charlotte Böhringer?,crime,7.5,43.0,
+Untamed Royals,crime,4.6,718.0,99.0
+Paradise of Criminals,crime,3.5,19.0,
+Kahar: Kapla High Council,crime,7.2,586.0,102.0
+Blitz,crime,7.2,9.0,6.0
+4N6,crime,8.3,1110.0,117.0
+Game Over,crime,5.6,21.0,74.0
+Bigul,crime,8.9,52.0,144.0
+5D,crime,6.8,605.0,129.0
+Koresha,crime,3.1,69.0,86.0
+Troll Factory,crime,5.8,530.0,109.0
+Murder in a Teacup,crime,6.3,156.0,93.0
+Jimmy's Friends,crime,7.4,16.0,94.0
+Wannabe,crime,4.4,149.0,102.0
+Pathological: The Lies of Joran van der Sloot,crime,6.5,379.0,93.0
+Anand Sreebala,crime,6.6,2528.0,134.0
+Uno Sir,crime,6.5,47.0,106.0
+Black Snow,crime,7.7,59.0,96.0
+Kaliyugam Pattanamlo,crime,6.4,2221.0,150.0
+Vallavan Vaguthadhada,crime,6.5,65.0,104.0
+Blues de la Civilización,crime,5.2,7.0,69.0
+Sharma & Ambani,crime,9.1,185.0,104.0
+Danger in the Dorm,crime,5.1,179.0,86.0
+That One Night,crime,5.5,6.0,85.0
+Sikandar Ka Muqaddar,crime,6.0,26202.0,142.0
+Anyone Else But Me,crime,6.9,168.0,95.0
+Raktdhara: The City of Blood,crime,9.1,9.0,
+Prasanna Vadanam,crime,6.6,590.0,146.0
+Hijack 1971,crime,6.8,3899.0,100.0
+Theppa Samudram,crime,7.3,1559.0,133.0
+Lie to Me,crime,7.1,67.0,94.0
+Hunt the Wicked,crime,5.4,240.0,102.0
+Shivam Bhaje,crime,7.7,3015.0,121.0
+The Murder of Sandra Rivett,crime,6.3,156.0,90.0
+What Jennifer Did,crime,6.1,12397.0,87.0
+Conviction,crime,6.7,46.0,97.0
+In Her Place,crime,6.3,7307.0,96.0
+G - 21 Scenes from Gottsunda,crime,7.0,201.0,80.0
+Tiempo de Pagar,crime,7.3,67.0,63.0
+Bachelor Party,crime,4.3,456.0,85.0
+Real Estate Sisters,crime,4.6,33.0,84.0
+What Lies Within,crime,5.2,13.0,90.0
+Rebel,crime,3.2,73.0,100.0
+Hustlers Take All,crime,5.5,95.0,106.0
+Downfall of the Crypto King (theatrical feature),crime,6.3,39.0,90.0
+An American Bombing: The Road to April 19th,crime,6.8,995.0,107.0
+Freedom,crime,5.9,1593.0,110.0
+Shades of Sapphire,crime,7.8,11.0,77.0
+Lipstick,crime,6.2,49.0,145.0
+Vivekam,crime,8.1,310.0,104.0
+Landkrimi: Steirergift,crime,6.4,79.0,90.0
+Strangers,crime,4.2,458.0,106.0
+Lóve 2,crime,4.7,87.0,
+Prem Ni Pathshala,crime,8.5,7.0,
+Evidence,crime,9.4,209.0,
+Mani nude,crime,5.7,166.0,84.0
+Dracula: The Count's Kin,crime,4.6,81.0,87.0
+Misericordia,crime,6.7,4119.0,104.0
+The Kingdom,crime,7.0,1776.0,112.0
+Paarijathaparvam,crime,6.2,2320.0,133.0
+Siragan,crime,7.2,157.0,130.0
+Oru Nodi,crime,6.7,540.0,128.0
+Bhaje Vaayu Vegam,crime,6.0,798.0,136.0
+The Shakedown,crime,5.1,315.0,104.0
+Vares X,crime,3.6,253.0,85.0
+Mothers of Chibok,crime,6.8,12.0,88.0
+The AI Dharma Story,crime,1.7,1132.0,89.0
+Hacking Hate,crime,6.3,646.0,86.0
+State of Silence,crime,6.7,131.0,80.0
+For the Love of Cash 2,crime,8.6,12.0,
+Hole,crime,5.4,28.0,71.0
+Priyo Maloti,crime,6.8,254.0,119.0
+Dirty Ice Cream,crime,4.0,170.0,44.0
+Chapter 51,crime,6.0,12.0,120.0
+Abudeka Is Back,crime,5.6,65.0,120.0
+The Seed of the Sacred Fig,crime,7.5,18630.0,167.0
+A Place Under the Sun,crime,9.2,37.0,110.0
+Ingu Mirugangal Vaazhum Idam,crime,6.2,15.0,108.0
+REES,crime,6.4,28.0,
+Vengeful,crime,5.8,19.0,100.0
+Illusions for Sale: The Rise and Fall of Generation Zoe,crime,6.1,687.0,107.0
+Lorry Chapter-1,crime,7.0,4285.0,183.0
+Der Wien-Krimi: Blind ermittelt - Tod im Palais,crime,7.2,26.0,88.0
+Housekeeping,crime,6.0,45.0,98.0
+Vrutos,crime,7.6,16.0,100.0
+Justice,crime,6.3,4429.0,113.0
+Give Me a Ride,crime,4.9,20.0,102.0
+Last Mile,crime,6.5,711.0,128.0
+The Great British Heist,crime,5.6,10.0,60.0
+Teacher's Pet,crime,5.2,37.0,74.0
+Nahir,crime,4.7,1212.0,122.0
+Red,crime,4.2,149.0,114.0
+Ballistic,crime,2.3,199.0,95.0
+Yevam,crime,5.8,1558.0,123.0
+Jason's World,crime,5.8,5.0,58.0
+How to Rob a Bank,crime,6.6,4472.0,88.0
+Savi,crime,5.9,36914.0,126.0
+¿Quién Mató al Patrón?,crime,6.1,32.0,
+The London Underground Killer,crime,4.7,95.0,91.0
+Drive,crime,5.6,405.0,90.0
+Oppa,crime,8.4,55.0,84.0
+Tòkunbò,crime,3.9,314.0,113.0
+Crisis Negotiators,crime,6.7,818.0,120.0
+S.I.T,crime,6.7,2349.0,110.0
+Salvajes,crime,5.6,67.0,90.0
+The Art of Stealing,crime,7.0,48.0,102.0
+Walk the Line,crime,5.5,99.0,115.0
+ChiefsAholic: A Wolf in Chiefs Clothing,crime,6.3,441.0,121.0
+Bangkok Dog,crime,4.6,338.0,89.0
+Randa Ramphal,crime,8.5,7.0,70.0
+Baby Assassins: Nice Days,crime,7.0,740.0,103.0
+Dandupalayam,crime,6.4,2123.0,137.0
+Kaulayaw,crime,4.0,219.0,95.0
+Dawgz Life,crime,7.5,18.0,143.0
+Abnormal: Buas,crime,5.4,32.0,90.0
+The Lick,crime,9.1,12.0,
+Amish Affair,crime,5.5,234.0,86.0
+Rakshana,crime,5.5,1172.0,139.0
+What Happens in Miami,crime,4.2,228.0,90.0
+Nelma Kodama: The Queen of Dirty Money,crime,5.4,219.0,94.0
+Disengaged Soldiers,crime,9.4,10.0,
+Thirsty for Likes,crime,4.0,44.0,46.0
+Kokuhaku Confession,crime,5.5,188.0,74.0
+Amongst the Wolves,crime,5.2,531.0,102.0
+Maven,crime,9.2,66.0,128.0
+Against the Spread,crime,7.9,50.0,95.0
+A Place Called Silence,crime,6.5,1543.0,119.0
+Dark World,crime,5.5,22.0,135.0
+Sinful Lies,crime,7.1,12.0,65.0
+Bayamariya Brammai,crime,6.9,39.0,88.0
+Bougainvillea,crime,6.4,3678.0,138.0
+Agontuk,crime,5.3,25.0,125.0
+Rautu Ka Raaz,crime,6.3,2068.0,114.0
+Shina,crime,7.9,9.0,98.0
+The Stormtrooper Scandal,crime,6.1,65.0,88.0
+Memphganistan,crime,5.2,13.0,111.0
+The Bottom Line,crime,6.7,18.0,107.0
+Loverboy: Emoties Uit,crime,6.2,640.0,98.0
+Octopus with Broken Arms,crime,6.0,415.0,109.0
+Raja Rani,crime,9.0,103.0,134.0
+Mafia Temptation,crime,8.8,13.0,82.0
+The Deal,crime,8.9,29.0,130.0
+7vens Law,crime,9.3,21.0,68.0
+Peg O' My Heart,crime,6.0,250.0,97.0
+Chameleon,crime,5.3,53.0,133.0
+The Tale of Texas Pool,crime,8.0,81.0,
+Cravings,crime,1.7,16.0,155.0
+SMB-plush presents trick or death,crime,7.5,20.0,120.0
+The Quiet Ones,crime,6.0,1580.0,110.0
+Crime Reel,crime,7.5,141.0,111.0
+Gatao: Like Father Like Son,crime,5.6,325.0,131.0
+Top Floor,crime,5.2,107.0,74.0
+Diddy: Summit to Plummet,crime,2.4,228.0,60.0
+Homegrown,crime,6.6,173.0,109.0
+Little Jaffna,crime,6.5,278.0,100.0
+Broken Rage,crime,6.0,1936.0,62.0
+The Mohican,crime,6.6,601.0,87.0
+One of Those Days When Hemme Dies,crime,6.2,1345.0,83.0
+"Rajagunj: Pooja, Sir",crime,6.2,846.0,115.0
+Bury Him,crime,5.0,60.0,88.0
+Masinga - The Calling,crime,5.7,12.0,77.0
+Untold: The Murder of Air McNair,crime,5.6,2296.0,57.0
+Evil Among Us: The Grim Sleeper,crime,6.5,47.0,
+Suspicion,crime,3.6,229.0,115.0
+Little Black Submarines,crime,6.9,60.0,123.0
+A Brothers Bond,crime,4.9,65.0,103.0
+Rock,crime,4.8,19.0,
+Jailbreak: Love on the Run,crime,6.4,3789.0,88.0
+Go for Broke,crime,5.6,323.0,115.0
+Who Killed Angel Adams?,crime,6.1,29.0,76.0
+Untouchable,crime,4.6,99.0,112.0
+Gde nashi dengi?,crime,5.9,161.0,76.0
+All Suspects,crime,3.5,23.0,96.0
+To Live Through Death,crime,6.7,88.0,91.0
+Blood Suckaz,crime,3.4,9.0,
+Villain - Life of a Gangster,crime,8.6,175.0,141.0
+Black Girl Fatal,crime,8.2,12.0,122.0
+Cold Noodle,crime,6.2,8.0,75.0
+Second Life,crime,6.8,93.0,105.0
+A Frozen Rage,crime,5.3,50.0,115.0
+Treasures of Terror: Vol 1,crime,4.2,22.0,
+Up North,crime,5.3,9.0,
+Kala Ratri,crime,6.8,19.0,122.0
+Muroi Shinji: Not Defeated,crime,5.8,57.0,115.0
+4 Faces,crime,8.7,26.0,
+The Best of Me,crime,7.0,8.0,89.0
+The Troll Hunter,crime,5.9,23.0,82.0
+Mathu Vadalara 2,crime,7.0,1936.0,139.0
+Ghost Killer,crime,6.2,823.0,105.0
+Unknown Caller,crime,6.5,49.0,63.0
+Risky Business,crime,6.8,276.0,107.0
+The Unwavering Brotherhood,crime,5.3,92.0,94.0
+A River Without Tears,crime,7.5,8.0,106.0
+Die Bloedhonde,crime,6.5,11.0,97.0
+Hani,crime,7.8,11.0,73.0
+Treasures of Terror: Vol 2,crime,3.8,14.0,
+Anti-Drug Operation,crime,6.4,7.0,79.0
+Real Cops,crime,6.2,66.0,
+Cageling,crime,6.8,9.0,69.0
+AK47,crime,7.1,17.0,146.0
+Sous écrous,crime,4.7,204.0,111.0
+Lie Du,crime,1.8,24.0,107.0
+Malam Pertobatan,crime,6.7,16.0,81.0
+Uninvited,crime,5.6,421.0,93.0
+Atithi,crime,8.8,11.0,
+Io e te dobbiamo parlare,crime,4.3,358.0,95.0
+The Menendez Brothers,crime,7.0,11011.0,119.0
+Shoutai,crime,6.8,916.0,120.0
+Vanished: The Lucie Blackman Mystery,crime,6.3,22.0,
+Who Killed Terrance Brown?,crime,7.2,16.0,95.0
+Ryding Durty,crime,7.8,13.0,
+Papa,crime,7.5,393.0,131.0
+RTI,crime,6.1,30.0,130.0
+Breaking the Silence: The Maria Soledad Case,crime,6.4,583.0,95.0
+A Bronx Tale: The Original One Man Show,crime,8.2,52.0,95.0
+Snowstorm,crime,6.1,12.0,91.0
+Chris Brown: A History of Violence,crime,5.4,355.0,82.0
+Break War,crime,2.8,19.0,86.0
+Your Curse,crime,2.6,21.0,
+Tschugger - Der Lätscht Fall,crime,8.1,202.0,147.0
+The Girl Who Wore Yellow Lace,crime,5.0,52.0,82.0
+The Beast Hand,crime,4.6,20.0,77.0
+Sniper Elite: Nanocrisis,crime,5.0,6.0,82.0
+Deal at the Border,crime,7.4,14.0,104.0
+Atlanta 10.02,crime,5.8,18.0,45.0
+Guxim,crime,6.9,46.0,75.0
+Krista,crime,5.3,82.0,58.0
+Money Bastion,crime,4.4,20.0,
+Piano Love,crime,6.8,24.0,96.0
+Killerwood,crime,6.6,70.0,84.0
+Valley of the Shadow of Death,crime,6.3,127.0,84.0
+How to Make a Killing,crime,6.5,2553.0,109.0
+First Rites,crime,7.1,10.0,114.0
+Beautifully Broken People,crime,8.9,10.0,75.0
+Section 302 - Aynamohol,crime,3.5,7.0,55.0
+Minnesota v. We the People,crime,9.4,8.0,55.0
+Green Bones,crime,7.0,649.0,96.0
+Happy Birthday Luci,crime,8.2,73.0,99.0
+Dengeler,crime,5.3,321.0,123.0
+The Bodyguard,crime,6.6,58.0,87.0
+Common Sense,crime,3.2,26.0,68.0
+So It Goes,crime,3.2,19.0,77.0
+Daredevil vs Punisher,crime,7.1,10.0,83.0
+Dogs of War,crime,6.9,54.0,90.0
+Yurka,crime,3.9,37.0,85.0
+Waterdrop,crime,7.4,10.0,108.0
+Iravinil Aatam Par,crime,2.8,155.0,118.0
+The Station Strangler,crime,7.6,6.0,99.0
+The Texas Cheerleader Murder Plot,crime,4.9,321.0,100.0
+Jujji,crime,9.4,139.0,73.0
+Thirumbipaar,crime,6.0,243.0,101.0
+The Kingdom,crime,6.1,204.0,133.0
+Maloney - Die ersten drei haarsträubenden Fälle,crime,6.9,87.0,98.0
+Push,crime,4.6,12.0,
+Angry Squad: Civil Servants & Seven Swindlers,crime,6.9,165.0,120.0
+Slapes,crime,6.7,34.0,82.0
+The 6th,crime,6.8,13.0,
+No Cap,crime,4.1,163.0,108.0
+Hain,crime,3.1,55.0,95.0
+Buenas noches,crime,6.5,20.0,91.0
+In Youth We Trust,crime,6.6,626.0,132.0
+Nietzsche's Umbrella,crime,8.7,22.0,86.0
+Lealtad o Morir,crime,8.6,18.0,87.0
+Nacida Para Vengar,crime,9.2,18.0,102.0
+Pink Butterfly,crime,5.7,56.0,109.0
+La Tamalera,crime,9.1,18.0,115.0
+Los Hijos De Camelia y Emilio,crime,7.2,47.0,82.0
+Duelo De Capos,crime,6.9,48.0,83.0
+El Juego Del Poder,crime,8.8,18.0,95.0
+It's a Free Country,crime,8.7,7.0,120.0
+El Cártel De Teresa,crime,9.0,18.0,96.0
+El Junior Del Patron,crime,8.0,22.0,92.0
+Falsos Amigos,crime,7.0,18.0,113.0
+Zabt,crime,6.3,22.0,
+Nero,crime,6.4,16.0,105.0
+Gini Avi Saha Gini Keli 2,crime,7.8,29.0,118.0
+Las Hermanas Del Cartel,crime,8.7,14.0,91.0
+Duffle Bag Boy,crime,6.8,62.0,
+"Compa, me gusta su vieja",crime,6.1,35.0,86.0
+La Nueva Camelia,crime,5.7,24.0,95.0
+My Home Hero the Movie,crime,6.4,20.0,117.0
+Bond of Justice: Kizuna Part I - Encounter,crime,6.3,24.0,92.0
+"Milk, Rice, and the Blood",crime,8.6,156.0,45.0
+Skiptrace,crime,6.2,11.0,80.0
+A Long Shot,crime,6.2,9.0,97.0
+The Epidemic,crime,5.9,73.0,95.0
+Partners in Crime,crime,7.8,5.0,72.0
+Roadkill,crime,3.7,746.0,90.0
+The Thicket,crime,5.9,5359.0,105.0
+Maharaj,crime,6.5,15589.0,131.0
+Forest Killer,crime,4.2,83.0,78.0
+The Actor,crime,3.4,744.0,128.0
+Dream Lock,crime,7.8,24.0,100.0
+She's Got No Name,crime,5.5,504.0,94.0
+Trigger Warning,crime,4.6,20305.0,106.0
+Long Gone Heroes,crime,5.1,1802.0,101.0
+The Unholy Trinity,crime,5.5,5315.0,95.0
+Nasha Jurm Aur Gangsters,crime,6.4,2759.0,137.0
+The Hole Story,crime,6.9,12.0,87.0
+The Seven Sorrows of Mary,crime,6.3,54.0,98.0
+Among Neighbors,crime,7.6,185.0,100.0
+Martingale,crime,5.3,110.0,103.0
+Zeke,crime,6.4,13.0,50.0
+Detained,crime,4.9,2237.0,97.0
+Myall Creek Day of Justice,crime,6.8,18.0,78.0
+Dead Men in the Skitrack,crime,5.2,357.0,89.0
+Absolution,crime,5.2,10288.0,112.0
+Rendel: Cycle of Revenge,crime,3.6,289.0,99.0
+Sleeping Dogs,crime,6.2,25139.0,110.0
+Rhino Man,crime,9.0,51.0,96.0
+Hotel Underground,crime,7.1,88.0,
+Khameleon,crime,4.1,21.0,89.0
+Silver Star,crime,6.5,530.0,102.0
+Jersey Bred,crime,5.1,100.0,92.0
+Cry of Silence,crime,5.6,97.0,116.0
+Monkey Man,crime,6.8,98187.0,121.0
+CHAAW: Chapter 3 - Christmas Time Is Here,crime,8.0,484.0,72.0
+Scapegoat,crime,5.5,53.0,85.0
+Silvio,crime,3.1,592.0,114.0
+Brothers,crime,5.4,14837.0,89.0

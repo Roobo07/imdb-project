@@ -1,0 +1,476 @@
+movie_name,genre,rating,votes,duration_minutes
+Bureau 749,adventure,3.8,689.0,123.0
+Barroz: Guardian of Treasures,adventure,3.3,1124.0,155.0
+Elli and Her Monster Team,adventure,4.9,139.0,86.0
+Thelma the Unicorn,adventure,5.7,3263.0,93.0
+Tipppsy,adventure,8.1,35.0,115.0
+Si Juki the Movie: Harta Pulau Monyet,adventure,6.3,156.0,107.0
+Sunnyfield Kids,adventure,8.5,7.0,
+Arthur the King,adventure,7.0,37702.0,107.0
+Vertical,adventure,4.9,166.0,111.0
+Spaceman,adventure,5.7,45965.0,107.0
+Game On,adventure,2.5,374.0,85.0
+Dandelion,adventure,8.9,10.0,95.0
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,adventure,5.4,16.0,74.0
+Kingdom of the Planet of the Apes,adventure,6.8,164682.0,145.0
+Winner,adventure,6.5,3189.0,103.0
+A.R.M,adventure,7.1,9911.0,150.0
+Anaconda,adventure,4.9,1006.0,84.0
+Devara Part 1,adventure,6.0,23103.0,176.0
+The Star City Murders,adventure,4.0,162.0,79.0
+Finding Christmas,adventure,6.5,28.0,
+Furiosa: A Mad Max Saga,adventure,7.5,311571.0,148.0
+Elephant Steps,adventure,6.9,40.0,
+Legend of the White Dragon,adventure,7.8,51.0,90.0
+Twisters,adventure,6.5,189208.0,122.0
+Gunner,adventure,3.1,3279.0,106.0
+Man and Witch: The Dance of a Thousand Steps,adventure,5.6,381.0,94.0
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,adventure,5.4,16.0,55.0
+Kalki 2898 AD,adventure,7.0,74156.0,180.0
+A Trip Elsewhere,adventure,4.5,198.0,93.0
+Satu - Year of the Rabbit,adventure,9.0,62.0,93.0
+Hitpig,adventure,5.2,1267.0,86.0
+Mufasa: The Lion King,adventure,6.6,79542.0,118.0
+Uglies,adventure,4.7,35934.0,100.0
+Permafrost,adventure,4.3,133.0,80.0
+Damsel,adventure,6.1,116235.0,110.0
+Rocky Road to Berlin,adventure,7.2,1654.0,104.0
+Panda Bear in Africa,adventure,5.5,424.0,84.0
+Moana 2,adventure,6.3,120500.0,100.0
+The Phantom Warrior,adventure,2.3,582.0,119.0
+The Great Lillian Hall,adventure,7.3,2366.0,110.0
+Godzilla x Kong: The New Empire,adventure,6.0,131107.0,115.0
+Overlord: The Sacred Kingdom,adventure,6.9,1917.0,135.0
+Birds Flying East,adventure,5.8,633.0,100.0
+Mobile Suit Gundam SEED Freedom,adventure,6.6,1080.0,124.0
+Niko: Beyond the Northern Lights,adventure,6.1,448.0,86.0
+The Lord of the Rings: The War of the Rohirrim,adventure,6.3,37966.0,134.0
+Joachim and the Apocalypse,adventure,6.3,28.0,90.0
+That Christmas,adventure,6.8,20086.0,91.0
+Atlas,adventure,5.6,58712.0,118.0
+Orango,adventure,7.2,76.0,94.0
+Red One,adventure,6.2,156404.0,123.0
+All for One,adventure,1.5,724.0,97.0
+Rally Caps,adventure,5.3,177.0,100.0
+Formed Police Unit,adventure,4.6,1533.0,120.0
+Nothing Unusual,adventure,8.2,17.0,92.0
+Sunray: Fallen Soldier,adventure,4.4,860.0,115.0
+Dune: Part Two,adventure,8.4,705079.0,166.0
+Going Viral,adventure,6.3,314.0,90.0
+The Day the Earth Blew Up: A Looney Tunes Movie,adventure,6.8,8129.0,91.0
+Hanu Man,adventure,7.7,30184.0,158.0
+The Goat,adventure,5.6,401.0,91.0
+Hope & Glory,adventure,6.5,156.0,44.0
+Killer Witches from Outer Space,adventure,3.6,163.0,82.0
+Ahl Al Kahf,adventure,5.2,349.0,120.0
+Harold and the Purple Crayon,adventure,5.7,9721.0,90.0
+No Way Up,adventure,4.6,11773.0,90.0
+The Biggest Moon,adventure,2.4,155.0,105.0
+Venom: The Last Dance,adventure,6.0,147606.0,110.0
+Bionic,adventure,4.3,1835.0,110.0
+Never Look Away,adventure,7.1,334.0,85.0
+Autumn and the Black Jaguar,adventure,5.6,1216.0,100.0
+Wallace & Gromit: Vengeance Most Fowl,adventure,7.5,39976.0,82.0
+Devil's Knight,adventure,4.7,1100.0,90.0
+The Empire,adventure,5.2,1528.0,110.0
+Captain Avispa,adventure,5.7,190.0,96.0
+Zak & Wowo: The Legend of Lendarys,adventure,5.0,117.0,85.0
+Bade Miyan Chote Miyan,adventure,3.7,40617.0,163.0
+Spiders on a Plane,adventure,3.6,568.0,78.0
+Sonic the Hedgehog 3,adventure,6.9,75708.0,110.0
+Powder Pup,adventure,5.8,94.0,89.0
+Jaunt,adventure,7.9,10.0,78.0
+Golden Kamuy,adventure,6.3,2846.0,127.0
+Now or Never!,adventure,2.3,17272.0,135.0
+The Return,adventure,6.3,13231.0,116.0
+Xibalba Monster,adventure,6.7,40.0,76.0
+WWII: Operation Phoenix,adventure,3.9,134.0,106.0
+Descendants: The Rise of Red,adventure,4.7,7991.0,95.0
+Woody Woodpecker Goes to Camp,adventure,4.5,2813.0,100.0
+Angels Fallen: Warriors of Peace,adventure,3.9,6598.0,103.0
+Tracing the Divide,adventure,7.9,196.0,84.0
+Petualangan Anak Penangkap Hantu,adventure,5.8,30.0,99.0
+Cult Killer,adventure,4.8,3263.0,105.0
+Oro Negro,adventure,4.8,23.0,
+Ghostbusters: Frozen Empire,adventure,6.1,101765.0,115.0
+The Ballad of Straw Hat Sam,adventure,8.5,14.0,45.0
+Meanwhile on Earth,adventure,5.8,1257.0,89.0
+Robin and the Hoods,adventure,4.3,587.0,100.0
+I Left My Heart in Colombia,adventure,7.1,464.0,
+Bam!,adventure,7.2,34.0,80.0
+Trifole,adventure,6.3,110.0,101.0
+The Bremen Town Musicians,adventure,4.3,831.0,115.0
+Treasure Trackers,adventure,5.6,204.0,92.0
+Kung Fu Panda 4,adventure,6.3,77051.0,94.0
+Jurassic Triangle,adventure,2.4,331.0,84.0
+Freaky Tales,adventure,6.2,15639.0,107.0
+The Secret of Pin-Up Island,adventure,7.1,105.0,107.0
+Off the Beaten Track,adventure,6.5,44.0,106.0
+Inside Out 2,adventure,7.5,240298.0,96.0
+Kanguva,adventure,4.5,15637.0,152.0
+Captain Miller,adventure,7.1,14126.0,157.0
+Oda: Vlucht door de Eeuwen,adventure,7.3,7.0,102.0
+Mesken (Messuage),adventure,7.0,58.0,99.0
+Big City Greens the Movie: Spacecation,adventure,6.2,657.0,83.0
+Seven Seas Seven Hills,adventure,7.0,113.0,90.0
+Something in the Water,adventure,4.1,5608.0,86.0
+Thangalaan,adventure,6.5,7094.0,156.0
+Kade,adventure,6.6,21.0,92.0
+The Price of Money: A Largo Winch Adventure,adventure,5.1,1574.0,100.0
+Saving Bikini Bottom: The Sandy Cheeks Movie,adventure,3.6,4422.0,82.0
+Rebel Moon - Part Two: The Scargiver,adventure,5.3,62430.0,122.0
+Eden,adventure,6.5,34401.0,129.0
+Emma's Big Adventure,adventure,5.3,167.0,106.0
+Into the Wonderwoods,adventure,6.1,262.0,81.0
+Fox & Hare Save the Forest,adventure,5.9,255.0,71.0
+Bookworm,adventure,6.0,2548.0,103.0
+The Best Christmas Pageant Ever,adventure,6.8,8205.0,99.0
+Operation Blood Hunt,adventure,3.4,667.0,93.0
+At Her Feet,adventure,7.7,82.0,100.0
+Mountain Boy,adventure,7.9,31.0,93.0
+Guest from the Future,adventure,6.0,1405.0,141.0
+Naa Saami Ranga,adventure,4.5,1266.0,150.0
+Steal the Naughty List,adventure,4.9,140.0,90.0
+Oculus,adventure,6.1,19.0,113.0
+Uttarakaanda,adventure,7.4,6.0,
+Tay 2: Ebabil Takimi,adventure,5.1,49.0,78.0
+The Very Last Christmas,adventure,8.6,12.0,75.0
+Kalvan,adventure,5.6,1048.0,142.0
+Buddy,adventure,3.8,377.0,137.0
+Sketch,adventure,6.6,5186.0,93.0
+The Slave and the Sorcerer,adventure,6.5,54.0,86.0
+Fat Chance! the Movie,adventure,7.5,8.0,
+The Magician's Raincoat,adventure,5.0,158.0,89.0
+The Count of Monte-Cristo,adventure,7.6,44869.0,178.0
+Manjummel Boys,adventure,8.2,32536.0,135.0
+Buffalo Kids,adventure,6.6,933.0,81.0
+Letuchiy korabl,adventure,3.3,435.0,100.0
+Håkan Hurricane 2,adventure,5.4,169.0,92.0
+Askepote,adventure,3.5,101.0,72.0
+Spider-Man: Blue,adventure,5.9,12.0,
+I Hate Summer,adventure,5.2,763.0,103.0
+Friendly Fire,adventure,5.9,75.0,105.0
+Chyortov kamen,adventure,3.8,25.0,105.0
+Survive,adventure,4.6,4351.0,90.0
+The Courier,adventure,6.0,5523.0,101.0
+Major Grom: The Game,adventure,6.2,1999.0,168.0
+Saint-Exupéry,adventure,5.3,892.0,98.0
+Cells at Work!,adventure,6.7,1394.0,109.0
+Please Don't Feed the Children,adventure,4.6,1394.0,94.0
+The Wages of Fear,adventure,4.6,4406.0,104.0
+Arctic Hollow,adventure,2.2,206.0,70.0
+Cândido,adventure,6.3,77.0,99.0
+"Fallen Leaves, Broken Lighters",adventure,8.0,9.0,96.0
+YA - medved,adventure,5.0,66.0,97.0
+Dreams,adventure,6.4,13.0,106.0
+The Big Trip 3: Race Around the World,adventure,5.3,108.0,85.0
+The Adventures of Jurassic Pet: Return to the Wild,adventure,5.4,114.0,90.0
+Sunlight,adventure,6.6,394.0,96.0
+A Legend,adventure,4.7,1223.0,129.0
+Six Nine Five (695),adventure,7.1,712.0,137.0
+Gaami,adventure,6.3,2121.0,147.0
+Pimpinero: Blood and Oil,adventure,5.6,619.0,121.0
+Tulang Belulang Tulang,adventure,7.1,56.0,95.0
+Jackpot,adventure,6.2,5.0,
+200% Wolf,adventure,5.8,1454.0,98.0
+No Chains No Masters,adventure,6.3,830.0,98.0
+The Mountain,adventure,6.3,283.0,89.0
+The Green Dinosaur,adventure,6.2,287.0,93.0
+Norbert,adventure,6.4,26.0,75.0
+The Waves of Madness,adventure,5.2,156.0,68.0
+The Ghost of Annie Lee,adventure,4.8,7.0,103.0
+Orion and the Dark,adventure,6.3,18674.0,93.0
+Manyunya. Priklyucheniya v Moskve,adventure,5.5,121.0,87.0
+Tri kota. Zimnie kanikuly,adventure,6.4,42.0,65.0
+The Kingfish 2,adventure,7.7,13.0,72.0
+Dracu Ra,adventure,5.8,52.0,106.0
+Game of Death: The Six Doors to Hell,adventure,7.4,12.0,145.0
+The Last of Us: Immunity,adventure,4.1,36.0,64.0
+My Freaky Family,adventure,6.0,466.0,86.0
+Bull Shark 3,adventure,2.6,168.0,76.0
+Heavens: The Boy and His Robot,adventure,7.4,36.0,98.0
+V potoke trekh stikhiy,adventure,5.1,46.0,85.0
+War of the Worlds: Extinction,adventure,3.0,250.0,84.0
+Abar Arownne Din Ratri,adventure,8.0,9.0,111.0
+This Too Shall Pass,adventure,7.5,70.0,105.0
+Heavier Trip,adventure,6.1,1915.0,96.0
+Alpha.,adventure,6.7,370.0,100.0
+My Fathers' Daughter,adventure,6.4,102.0,78.0
+Dead Dead Demon's Dededede Destruction,adventure,7.1,157.0,120.0
+Dead Dead Demon's Dededede Destruction Koushou,adventure,7.0,161.0,120.0
+Zoloto Umalty,adventure,4.9,120.0,109.0
+Earthquake Underground,adventure,3.2,294.0,83.0
+Marianengraben,adventure,6.8,120.0,87.0
+Bar MoskvaChiki,adventure,4.3,116.0,91.0
+Chhota Bheem and the Curse of Damyaan,adventure,4.7,2315.0,145.0
+Justice League: Crisis on Infinite Earths - Part One,adventure,6.2,9578.0,93.0
+Family Pack,adventure,5.5,10751.0,94.0
+Gracie and Pedro: Pets to the Rescue,adventure,5.0,318.0,87.0
+A Sloth Story,adventure,5.6,356.0,90.0
+Doraemon the Movie: Nobita's Earth Symphony,adventure,6.6,1878.0,115.0
+Shadows of Betrayal: Chronicles of Ian Blair,adventure,7.3,18.0,65.0
+Its Name Was Mormo,adventure,3.7,252.0,93.0
+The Cold Father,adventure,6.8,20.0,
+The Worlds Divide,adventure,8.0,58.0,120.0
+My Wild Friend,adventure,6.2,83.0,100.0
+Sixty Minutes,adventure,5.7,5531.0,88.0
+Night of the Zoopocalypse,adventure,6.0,1702.0,91.0
+Benjamin Bat,adventure,7.9,43.0,75.0
+Ne odna doma,adventure,3.3,144.0,79.0
+The Storm,adventure,6.0,158.0,102.0
+The Wild Robot,adventure,8.2,209416.0,102.0
+Lost on a Mountain in Maine,adventure,6.1,2575.0,98.0
+Moy lyubimyy chempion,adventure,2.3,422.0,95.0
+Stinky Summer,adventure,5.3,64.0,90.0
+River of Blood,adventure,4.6,2700.0,86.0
+Badland Hunters,adventure,5.9,13215.0,107.0
+Tokusou Sentai Dekaranger 20th: Fireball Booster,adventure,7.3,45.0,50.0
+Planetquake,adventure,3.1,370.0,85.0
+Mr. Blue Shirt: The Inspiration,adventure,5.6,15.0,
+Turbozavry. God drakona,adventure,8.7,46.0,48.0
+Iron Dusk,adventure,2.6,68.0,
+The Enchanted Tinderbox,adventure,5.4,296.0,105.0
+Pirates of the Mediterranean - A Game of Greed and Power,adventure,5.8,8.0,53.0
+Masha and the Bear. Wonder Park,adventure,7.0,29.0,58.0
+Unspeakable: Beyond the Wall of Sleep,adventure,3.5,177.0,90.0
+The Firing Squad,adventure,5.0,5131.0,93.0
+Cazatesoros,adventure,6.6,35.0,106.0
+The Puffins: Arctic Games,adventure,8.1,10.0,
+The Puffins & the Magic Portal,adventure,7.6,42.0,
+Justice League: Crisis on Infinite Earths - Part Two,adventure,5.6,6245.0,94.0
+Justice League: Crisis on Infinite Earths - Part Three,adventure,6.1,5486.0,94.0
+Sasquatch Sunset,adventure,5.4,6033.0,88.0
+Operation: Raqqa,adventure,5.6,414.0,107.0
+The Last Five Days: The Freak Building,adventure,3.7,65.0,61.0
+Baba Yaga spasaet Novyy god,adventure,4.5,159.0,99.0
+Warrior Awang and Master Tok Gajah,adventure,4.6,498.0,118.0
+Space Ranger,adventure,4.1,98.0,
+StarGazer: The Need of the Many,adventure,4.3,14.0,47.0
+"I, the Executioner",adventure,6.3,2429.0,118.0
+Gepack,adventure,6.5,388.0,97.0
+"Silex and the City, le film",adventure,4.8,65.0,77.0
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,adventure,7.3,10332.0,104.0
+Woodwalkers,adventure,5.1,995.0,103.0
+Crayon Shin-chan: Our Dinosaur Diary,adventure,6.6,808.0,106.0
+Adam & Eve,adventure,4.3,108.0,95.0
+The Last Ronin,adventure,4.9,688.0,115.0
+Devka-baba: Kukla-charodeyka,adventure,4.9,20.0,93.0
+Tur s Ivanushkami,adventure,5.3,178.0,111.0
+Yao guai sen lin,adventure,6.4,8.0,86.0
+Return to Wickensburg,adventure,4.8,112.0,88.0
+Troy the Bharat Putra,adventure,5.2,34.0,134.0
+Jathara,adventure,6.7,1061.0,129.0
+Luigi's Mansion,adventure,5.6,21.0,60.0
+Spuk unterm Riesenrad,adventure,4.8,70.0,95.0
+Beneath the Light,adventure,6.9,69.0,93.0
+The Eye of the Salamander,adventure,5.8,51.0,81.0
+Great Pretender: Razbliuto,adventure,6.1,242.0,89.0
+The Bigfoot Prophecy,adventure,4.8,24.0,117.0
+Chuck Billy and the Marvelous Guava Tree,adventure,7.4,1451.0,90.0
+Militant Monster 2024,adventure,8.8,29.0,
+The Farm,adventure,8.0,9.0,104.0
+Diving Into the Darkness,adventure,7.3,121.0,96.0
+Sehnsucht nach Firdaws,adventure,8.7,7.0,103.0
+Get Close 2,adventure,5.6,51.0,
+Vasilisa i khraniteli vremeni,adventure,3.0,92.0,98.0
+Piraty galaktiki Barrakuda,adventure,4.5,99.0,92.0
+De Legende van Familie Vos,adventure,5.6,62.0,81.0
+Teenz,adventure,4.4,875.0,122.0
+Novyy god v Beryozovke,adventure,6.7,111.0,94.0
+Tayna Chyornoy Ruki,adventure,5.6,25.0,84.0
+PW V: Tears of the Fallen,adventure,8.2,10.0,60.0
+LasseMajas detektivbyrå - Maskoten som försvann,adventure,5.7,97.0,90.0
+Príncipe Lu e a Lenda do Dragão,adventure,4.2,33.0,90.0
+Tale of Shepherds,adventure,5.5,44.0,80.0
+Megamind vs. The Doom Syndicate,adventure,2.4,6134.0,83.0
+The Casagrandes Movie,adventure,5.6,752.0,89.0
+Güzel Bir Rüya,adventure,4.9,63.0,79.0
+Z-Mom,adventure,4.8,47.0,90.0
+Seeking the King,adventure,6.6,12.0,
+Yasmeen's Element,adventure,7.7,24.0,76.0
+Kodaikanal,adventure,9.4,86.0,173.0
+I Heart Robots,adventure,4.5,2388.0,76.0
+Antarctic Voyage,adventure,7.3,15.0,48.0
+Applepictures the Poseidon Legacy,adventure,6.6,21.0,84.0
+Ngesot,adventure,4.9,19.0,87.0
+Ghost Island,adventure,6.9,65.0,95.0
+Nanoshark,adventure,3.7,75.0,68.0
+Triple 7: They Said It Couldn't Be Done,adventure,8.6,16.0,97.0
+Okhota na russkogo geniya,adventure,4.4,17.0,71.0
+Kral Sakir: Devler Uyandi,adventure,5.4,78.0,
+Suvorovets 1944,adventure,3.5,32.0,90.0
+I'm Professional,adventure,4.6,9.0,95.0
+Five Friends,adventure,6.7,1118.0,112.0
+My Oni Girl,adventure,6.0,2119.0,112.0
+The Blinkless,adventure,6.9,21.0,59.0
+The Last Redemption,adventure,6.6,7764.0,121.0
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,adventure,6.6,46.0,71.0
+"Maya, Give Me a Title",adventure,6.4,108.0,61.0
+The Twisters,adventure,2.5,547.0,86.0
+Whites Only: Ade's Extremist Adventure,adventure,6.7,30.0,65.0
+Tapori Nayak,adventure,8.6,18.0,
+The Polar Bear Prince,adventure,6.1,115.0,85.0
+Escape,adventure,6.4,2621.0,94.0
+The Legend of Bayi's Grandpa,adventure,4.8,8.0,88.0
+The Long Quiet,adventure,9.4,21.0,94.0
+Ivan Tsarevich i Seryy Volk 6,adventure,5.4,138.0,85.0
+Moonzy: Homecoming,adventure,6.4,90.0,
+Kyle and the Last Emerald 2,adventure,8.4,10.0,15.0
+Igrisca ne damo!,adventure,5.9,91.0,79.0
+Appu,adventure,7.9,209.0,92.0
+Chernyy zamok,adventure,5.0,69.0,115.0
+New Dragon Gate Inn,adventure,3.1,8.0,73.0
+The Researcher,adventure,6.4,9.0,71.0
+Cursed Waters: Creature of Lake Okanagan,adventure,6.3,25.0,
+Dogman Territory: Werewolves in the Land Between the Lakes,adventure,5.5,42.0,
+"Poymay sobaku, esli smozhesh",adventure,3.4,49.0,96.0
+Boom!,adventure,7.6,17.0,90.0
+Captain Toad and the Mystery Mine,adventure,9.1,19.0,77.0
+Skazochnyy patrul. Shou prodolzhayetsya,adventure,7.3,10.0,65.0
+Nature Cat's Nature Movie Special Extraordinaire,adventure,7.3,25.0,53.0
+Champions of the Golden Valley,adventure,7.6,119.0,81.0
+Eat the Night,adventure,6.1,719.0,106.0
+Memes & Nightmares,adventure,5.7,98.0,81.0
+Rebellious,adventure,6.1,284.0,94.0
+Abudeka Is Back,adventure,5.6,65.0,120.0
+My Hero Academia: You're Next,adventure,7.0,3465.0,110.0
+STEVE (A Minecraft Movie),adventure,7.8,19.0,61.0
+No Time to Spy: A Loud House Movie,adventure,6.3,567.0,81.0
+Manyunya. Priklyucheniya v derevne,adventure,5.6,130.0,84.0
+School of Magical Animals 3,adventure,5.7,483.0,105.0
+The Umbrella Fairy,adventure,5.8,70.0,95.0
+SITV Presents: Tabsentia,adventure,8.3,9.0,80.0
+Oscar Wilde About America,adventure,4.1,42.0,98.0
+Let's Go! Anpanman: Baikinman and Lulun,adventure,6.5,8.0,64.0
+Wilhelm Gustloff,adventure,8.7,10.0,110.0
+Road Wars: Max Fury,adventure,2.1,380.0,83.0
+Bambi: A Tale of Life in the Woods,adventure,5.6,392.0,78.0
+Surge of Power: Where There's Smoke,adventure,5.5,19.0,68.0
+A Babá: Operação Game Over,adventure,5.4,13.0,
+Tri bogatyrya. Ni dnya bez podviga,adventure,4.9,122.0,61.0
+Dünya Mali: Eksi Bir,adventure,6.9,22.0,133.0
+Dikkie Dik en de Verdwenen Knuffel,adventure,7.2,154.0,62.0
+Yolki 11,adventure,4.3,255.0,92.0
+Un lío de millones,adventure,5.3,349.0,91.0
+Aliens Uncovered: Buried Cities & Lost Tribes,adventure,6.4,18.0,
+The Yoshi Movie,adventure,8.1,16.0,105.0
+Claws,adventure,4.8,195.0,96.0
+Shrek 5: The Contract - A Fan Made Film,adventure,7.3,32.0,84.0
+Dragon Ball Z Kai,adventure,8.5,125.0,82.0
+Fuuto PI: Portrait of Kamen Rider Skull,adventure,7.2,82.0,82.0
+Mukhadrakon,adventure,5.3,18.0,109.0
+Bratya,adventure,2.9,152.0,103.0
+Mortadella,adventure,8.4,9.0,90.0
+The Primrose Railway Children,adventure,5.1,165.0,81.0
+Selebryata,adventure,3.5,22.0,93.0
+Lajjpal,adventure,9.0,8.0,252.0
+Fights Break Sphere 3,adventure,4.6,12.0,81.0
+Mobile Suit Gundam: Silver Phantom,adventure,5.7,18.0,90.0
+Isle: Alpha One,adventure,8.5,11.0,97.0
+Tales from the Table,adventure,3.0,8.0,
+Operation Wakaliga: Fate and Blood,adventure,6.7,12.0,66.0
+Suchana,adventure,8.6,512.0,90.0
+Witch Hunter,adventure,2.9,134.0,80.0
+One Million Babes BC,adventure,2.2,109.0,75.0
+Frankenstein Theater: The Magic Sword,adventure,4.1,28.0,82.0
+Vikaasaparva,adventure,8.4,547.0,134.0
+Family Vacation,adventure,5.9,10.0,
+The Dragon's Tomb,adventure,6.7,61.0,77.0
+A Christmas Carol,adventure,7.7,18.0,39.0
+Death Game,adventure,7.3,89.0,88.0
+Attack on Titan the Movie: The Last Attack,adventure,9.2,23107.0,145.0
+Luccas e Gi em: Dinossauros,adventure,3.6,30.0,91.0
+The Tale of Daye's Family,adventure,7.5,245.0,104.0
+Mister Thousand Cranes,adventure,4.9,7.0,82.0
+Taklee Genesis x Worlds Collide,adventure,5.3,522.0,146.0
+Dünya Varmis,adventure,6.6,74.0,100.0
+Kaizen,adventure,6.9,867.0,160.0
+Amazon Bullseye,adventure,5.3,259.0,113.0
+Piri Reis: The Incredible Chart,adventure,6.8,28.0,138.0
+Oyunda Kal: Eglence Arenasi,adventure,2.4,43.0,92.0
+Colour Palette,adventure,9.4,54.0,87.0
+Kiyma: Orman Kanunlari,adventure,4.4,56.0,81.0
+Solo Leveling: ReAwakening,adventure,8.7,16031.0,121.0
+Sam and Colby: The Legends of the Paranormal,adventure,4.8,325.0,98.0
+Abá e Sua Banda,adventure,7.0,30.0,84.0
+Beyaz Zenciler: Yapim Asamasi,adventure,9.8,64.0,55.0
+Anytime,adventure,8.5,33.0,62.0
+The Backrooms,adventure,8.2,30.0,63.0
+Tobia e i colori del mondo,adventure,8.3,42.0,
+Yaren Leylek,adventure,5.1,41.0,95.0
+Gekijô-ban Nintama Rantarô Dokutake Ninja-tai Saikyô no Gunshi,adventure,6.9,77.0,90.0
+Al Leib Maa Al Eyal,adventure,4.4,308.0,127.0
+Dongeng Sang Kancil,adventure,6.7,259.0,99.0
+This Land of Mine,adventure,5.0,93.0,90.0
+The Lost Tiger,adventure,6.6,113.0,90.0
+Dikkie Dik 2: Een nieuwe vriend voor Dikkie Dik,adventure,7.4,101.0,70.0
+Mai Martaba,adventure,5.9,14.0,86.0
+Tanning Zone,adventure,7.6,10.0,
+Banana Boat,adventure,5.5,25.0,78.0
+No More Trouble - Cosa rimane di una tempesta,adventure,8.5,24.0,97.0
+Poklad,adventure,4.3,70.0,100.0
+Goodbye Hamdi,adventure,6.6,12.0,85.0
+Mama,adventure,8.5,10.0,100.0
+Gostya iz kosmosa,adventure,8.7,8.0,70.0
+Gladiators,adventure,3.3,147.0,95.0
+The Kingdom,adventure,6.1,204.0,133.0
+Pui Pui Molcar the Movie: Molmax,adventure,6.7,30.0,69.0
+Minecraft But I Survive Again in Parkour Civilization,adventure,8.8,65.0,114.0
+Hain,adventure,3.1,55.0,95.0
+Penelope & Everly's Holiday Adventure,adventure,8.1,7.0,
+La Familia del Barrio: La Película,adventure,3.9,17.0,
+Transformers Prime: Galavatron's Revenge,adventure,4.7,30.0,104.0
+Duffle Bag Boy,adventure,6.8,62.0,
+QAnon Avenue,adventure,8.7,10.0,57.0
+The Forest,adventure,5.2,66.0,77.0
+Rocky and Bullwinkle,adventure,8.6,23.0,100.0
+Novogodniy ekspress,adventure,5.6,12.0,47.0
+Peter Brook's the Mahabharata (8K),adventure,8.0,23.0,173.0
+The Epidemic,adventure,5.9,73.0,95.0
+Famous Patrick (A Super SpongeBob Fan Movie),adventure,9.3,24.0,53.0
+Big Water Theory,adventure,7.9,21.0,83.0
+Il cammino - Viaggio in Calabria,adventure,8.2,8.0,58.0
+Nezha: Return of the Magic Boy,adventure,5.4,5.0,79.0
+Monster Summer,adventure,5.7,6695.0,97.0
+Roadkill,adventure,3.7,746.0,90.0
+Wonderland,adventure,6.8,14.0,120.0
+Flow,adventure,7.9,119231.0,85.0
+Bad Boys: Ride or Die,adventure,6.5,109607.0,115.0
+Borderlands,adventure,4.7,55179.0,101.0
+The Goat Life,adventure,7.1,49605.0,173.0
+Lumina,adventure,4.0,10424.0,113.0
+The Garfield Movie,adventure,5.7,26727.0,101.0
+Paddington in Peru,adventure,6.6,32805.0,106.0
+The Tiger's Apprentice,adventure,5.8,2364.0,84.0
+The Trail,adventure,4.4,566.0,80.0
+Deadpool & Wolverine,adventure,7.5,546110.0,128.0
+The Unholy Trinity,adventure,5.5,5315.0,95.0
+Stranded Pearl,adventure,6.3,52.0,90.0
+Empire Queen: The Golden Age of Magic,adventure,3.5,357.0,148.0
+The Chaos Sisters and Penguin Paul,adventure,5.5,76.0,100.0
+23 Horas,adventure,7.4,21.0,
+Dragonkeeper,adventure,5.8,2107.0,98.0
+The Traveller,adventure,5.3,278.0,134.0
+Son's Will,adventure,7.3,1272.0,148.0
+Escape from the 21st Century,adventure,6.4,1435.0,98.0
+Spellbound,adventure,5.5,8669.0,109.0
+Monica Teen: Reflexes of Fear,adventure,2.8,269.0,88.0
+Despicable Me 4,adventure,6.2,74607.0,94.0
+Beyond existence,adventure,4.1,26.0,95.0
+Spirit Riser,adventure,6.2,48.0,98.0
+Next to Us,adventure,4.9,236.0,125.0
+Ayalaan,adventure,5.9,4329.0,155.0
+Son of the Wolf,adventure,3.3,9.0,82.0
+My Penguin Friend,adventure,6.8,6800.0,97.0
+Noah's Ark,adventure,4.3,747.0,96.0
+Kraven the Hunter,adventure,5.5,76802.0,127.0
+Storm Crashers,adventure,6.1,642.0,88.0
+Transformers One,adventure,7.6,61257.0,104.0
+Shanghai Story,adventure,7.9,70.0,71.0
+The Keepers of the 5 Kingdoms,adventure,4.0,255.0,109.0
+Ice Maiden,adventure,8.3,102.0,90.0
+Gladiator II,adventure,6.5,284422.0,148.0
+Lo carga el diablo,adventure,7.7,33.0,103.0
+Ultraman: Rising,adventure,6.9,7188.0,117.0
+Advent,adventure,6.7,10.0,119.0
+Dalia and the Red Book,adventure,5.8,233.0,107.0

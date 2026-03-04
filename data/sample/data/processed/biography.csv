@@ -1,0 +1,354 @@
+movie_name,genre,rating,votes,duration_minutes
+Joy,biography,7.1,11273.0,115.0
+Jenni,biography,6.1,59.0,113.0
+The Ballad of Davy Crockett,biography,4.5,293.0,96.0
+Rob Peace,biography,6.6,2619.0,120.0
+Vindication Swim,biography,5.9,241.0,98.0
+Luther: Never Too Much,biography,8.1,1054.0,101.0
+Maidaan,biography,7.9,23306.0,181.0
+Ravens,biography,7.8,101.0,117.0
+Clemente,biography,7.9,125.0,101.0
+Rock Bottom,biography,6.3,79.0,86.0
+Winner,biography,6.5,3189.0,103.0
+The Great Tram Robbery,biography,5.7,21.0,90.0
+A Complete Unknown,biography,7.3,110161.0,141.0
+The Outrun,biography,6.9,20923.0,118.0
+Main Mulayam Singh Yadav,biography,3.8,210.0,120.0
+Qajymuqan,biography,4.8,11.0,
+Knock Out Blonde: The Kellie Maloney Story,biography,6.2,24.0,90.0
+Der Soldat Monika,biography,6.9,36.0,109.0
+Midas Man,biography,6.4,2050.0,112.0
+Audrey's Children,biography,6.8,887.0,110.0
+Kulej. All That Glitters Isn't Gold,biography,6.4,387.0,148.0
+Schindler Space Architect,biography,7.5,23.0,93.0
+The Tower of Strength,biography,7.4,44.0,95.0
+Shirley,biography,6.2,3566.0,117.0
+Madu,biography,5.4,279.0,100.0
+The Great Lillian Hall,biography,7.3,2366.0,110.0
+Better Man,biography,7.5,42950.0,135.0
+Cabrini,biography,7.3,9685.0,142.0
+Sadik Ahmet,biography,7.5,469.0,125.0
+The Shamrock Spitfire,biography,5.1,574.0,108.0
+Simona Kossak,biography,6.0,473.0,100.0
+Quisling: The Final Days,biography,7.1,1530.0,146.0
+Swatantrya Veer Savarkar,biography,7.7,18047.0,176.0
+Joachim and the Apocalypse,biography,6.3,28.0,90.0
+Unfrosted,biography,5.5,36262.0,97.0
+I'm Still Here,biography,8.1,141471.0,137.0
+Garip Bülbül: Neset Ertas,biography,6.4,26.0,130.0
+Billy Preston: That's the Way God Planned It,biography,8.6,34.0,105.0
+Never Look Away,biography,7.1,334.0,85.0
+Reagan,biography,6.1,12544.0,141.0
+The Truth: The Journey Within,biography,6.3,10.0,91.0
+Biggest Heist Ever,biography,6.1,1777.0,85.0
+Blood'less' Revolution,biography,6.6,343.0,103.0
+Hope of Escape,biography,7.4,53.0,91.0
+Karina,biography,6.4,109.0,90.0
+Lost Nation,biography,7.1,12.0,
+Spyral,biography,8.8,25.0,83.0
+Jim Henson: Idea Man,biography,7.7,4171.0,111.0
+Ataturk II: 1881-1919,biography,8.8,2892.0,141.0
+Münter & Kandinsky,biography,6.2,158.0,126.0
+The Remarkable Life of Ibelin,biography,8.1,14389.0,103.0
+Now or Never!,biography,2.3,17272.0,135.0
+Ae Watan Mere Watan,biography,4.7,1424.0,133.0
+Being Maria,biography,6.1,1106.0,100.0
+Race for Glory: Audi vs. Lancia,biography,5.8,5778.0,109.0
+Elton John: Never Too Late,biography,6.6,2228.0,102.0
+Who Killed Lawrence of Arabia?,biography,6.1,37.0,100.0
+"From Hilde, with Love",biography,6.9,1479.0,125.0
+Estimados Señores,biography,7.6,81.0,98.0
+Back to Black,biography,6.3,29253.0,122.0
+Scoop,biography,6.5,21505.0,102.0
+The Movie Man,biography,7.7,249.0,89.0
+Cookster: The Darkest Days,biography,7.9,51.0,119.0
+Tears of Cem Karaca,biography,7.2,2465.0,123.0
+William Tell,biography,5.7,6704.0,134.0
+Maria,biography,6.4,24095.0,124.0
+Harbin,biography,6.3,1748.0,108.0
+Nr. 24,biography,7.5,18895.0,111.0
+Srikanth,biography,7.4,14483.0,134.0
+Queer,biography,6.4,27667.0,137.0
+Main Atal Hoon,biography,6.9,6444.0,139.0
+Hayatla Baris,biography,6.3,451.0,125.0
+Bonhoeffer: Pastor. Spy. Assassin.,biography,6.2,4453.0,133.0
+Music by John Williams,biography,8.2,5739.0,105.0
+COMA,biography,8.1,15.0,80.0
+Zuckerberg: King of the Metaverse,biography,5.9,282.0,90.0
+Niki,biography,6.0,628.0,98.0
+Boléro,biography,6.5,1100.0,120.0
+Amar Singh Chamkila,biography,7.8,17137.0,145.0
+Monsieur Aznavour,biography,7.2,3739.0,133.0
+Padu,biography,5.3,89.0,97.0
+Daytime Revolution,biography,6.8,124.0,108.0
+Raghuveer,biography,8.9,68.0,125.0
+Amaran,biography,8.1,23375.0,167.0
+My Name Is Dingo,biography,6.2,692.0,88.0
+Saint-Exupéry,biography,5.3,892.0,98.0
+Miséria,biography,4.2,111.0,99.0
+"Disco, Ibiza, Locomia",biography,6.0,1694.0,104.0
+Gold,biography,7.8,89.0,126.0
+Chandu Champion,biography,7.8,36305.0,142.0
+A Wolf Among the Swans,biography,7.3,72.0,110.0
+Malevych,biography,5.9,91.0,90.0
+Diane von Furstenberg: Woman in Charge,biography,7.2,352.0,97.0
+Nedelja,biography,7.2,1988.0,130.0
+The Flood,biography,6.3,459.0,101.0
+Saturday Night,biography,6.9,37304.0,109.0
+Reading Lolita in Tehran,biography,6.2,1040.0,108.0
+Wingless,biography,7.1,276.0,110.0
+"Kati: Eine Kür, die bleibt",biography,6.1,94.0,99.0
+Go Against the Flow,biography,5.3,186.0,97.0
+Saint Nick of Bethlehem,biography,6.9,156.0,93.0
+Little Bites,biography,4.7,1688.0,105.0
+El 47,biography,7.2,4731.0,110.0
+Padatik,biography,7.9,125.0,126.0
+Ernest Cole: Lost and Found,biography,7.3,492.0,105.0
+Eterno visionario,biography,6.3,241.0,112.0
+Fly by Night,biography,8.6,17.0,
+Super/Man: The Christopher Reeve Story,biography,8.0,11312.0,104.0
+Niepewnosc. Zakochany Mickiewicz,biography,3.7,64.0,113.0
+Queen of the Ring,biography,6.4,2877.0,140.0
+Simply Johanne,biography,7.2,6.0,75.0
+Yatra 2,biography,6.3,9716.0,132.0
+Fanon,biography,6.3,299.0,132.0
+I Am: Celine Dion,biography,7.7,8242.0,103.0
+Dharmaveer 2,biography,5.5,11401.0,130.0
+Until the Last Promise,biography,3.1,122.0,95.0
+Beautiful Rebel,biography,6.3,1107.0,112.0
+"Marisol, llámame Pepa",biography,6.8,129.0,87.0
+Telepathic Letters,biography,5.0,39.0,70.0
+Komandir,biography,6.3,558.0,144.0
+Funmilayo Ransome-Kuti,biography,8.5,103.0,91.0
+The Life and Deaths of Christopher Lee,biography,7.2,541.0,99.0
+Hancsovszky,biography,7.8,21.0,
+Ruki vverkh!,biography,5.5,295.0,102.0
+Undercover,biography,7.1,5757.0,118.0
+Marco,biography,6.9,1729.0,101.0
+Ennio Doris - C'è anche domani,biography,4.7,119.0,90.0
+Tapes of Revolution,biography,9.4,7.0,75.0
+Nollbudget,biography,8.5,12.0,72.0
+Oxana,biography,6.1,209.0,103.0
+Harimau Malaya: The Untold Journey,biography,8.0,27.0,125.0
+Drazen,biography,6.4,1952.0,100.0
+Limonov: The Ballad of Eddie,biography,5.8,1340.0,138.0
+Soares é Fixe,biography,4.7,82.0,83.0
+The Ballad of Suzanne Césaire,biography,5.7,46.0,75.0
+Powstaniec 1863,biography,5.2,160.0,115.0
+The Firing Squad,biography,5.0,5131.0,93.0
+Golpe a Golpe (Blow by Blow),biography,8.1,22.0,90.0
+Pavements,biography,7.1,1045.0,128.0
+Veljko of the Sea,biography,7.4,18.0,53.0
+A Heart Is Always Red,biography,7.1,417.0,103.0
+Patrice: The Movie,biography,8.0,303.0,102.0
+9 sekund,biography,4.7,73.0,91.0
+Filmlovers!,biography,6.0,294.0,88.0
+Faruk,biography,6.6,496.0,97.0
+Faith of Angels,biography,6.1,380.0,98.0
+Goebbels and the Führer,biography,6.7,3163.0,135.0
+Light Blue,biography,4.3,141.0,
+Sleeping with a Tiger,biography,6.8,164.0,107.0
+Gevart,biography,7.3,71.0,34.0
+Im Schatten der Träume,biography,8.0,16.0,90.0
+The Great Ambition,biography,7.0,1351.0,123.0
+The World According to Allee Willis,biography,8.0,125.0,97.0
+The Children of Camp Ashraf,biography,5.6,22.0,88.0
+Memoir Seorang Guru,biography,7.1,149.0,120.0
+Romina,biography,7.5,13.0,
+Beneath the Light,biography,6.9,69.0,93.0
+Shahid,biography,6.4,101.0,84.0
+Shaking It Up: The Life and Times of Liz Carpenter,biography,8.2,11.0,77.0
+Parvin,biography,5.2,55.0,
+Majnoon,biography,6.5,85.0,
+Samia,biography,6.8,228.0,102.0
+I Am Nevenka,biography,7.0,1416.0,112.0
+National Theatre Live: Nye,biography,8.1,312.0,160.0
+Glenn Fredly: The Movie,biography,6.7,139.0,121.0
+Laura,biography,6.4,288.0,104.0
+Garbo: Where Did You Go?,biography,5.9,336.0,90.0
+Piece by Piece,biography,6.9,7369.0,93.0
+Chhatrapati Sambhaji,biography,5.2,241.0,186.0
+The Andersson Brothers,biography,7.2,154.0,84.0
+Bach - Ein Weihnachtswunder,biography,6.3,223.0,89.0
+Parviz Khan,biography,5.9,241.0,110.0
+Graciano Rocchigiani - Das Herz eines Boxers,biography,9.1,53.0,123.0
+The Sidemen Story,biography,6.6,1711.0,99.0
+They Call Me the Panzer,biography,7.7,16.0,90.0
+Havnaa,biography,6.8,527.0,110.0
+Roman Kostomarov. Rozhdennyy dvazhdy,biography,5.0,6.0,77.0
+Fedya. Narodnyy futbolist,biography,6.0,154.0,125.0
+Destiny or Will. Marusia,biography,8.9,21.0,
+The West Sky,biography,5.2,168.0,
+I Am Kevin Harvick,biography,8.9,19.0,
+The Truth vs. Alex Jones,biography,7.5,3239.0,121.0
+Blur: To the End,biography,7.2,865.0,104.0
+Lafran,biography,8.4,20.0,99.0
+Son Sarki: Ahmet'in Türküsü,biography,1.6,118.0,101.0
+Seu Cavalcanti,biography,8.2,10.0,78.0
+Cutting Squares,biography,3.6,7.0,128.0
+Federer: Twelve Final Days,biography,7.3,4469.0,88.0
+Nasty,biography,7.7,1157.0,103.0
+Klitschko: More Than a Fight,biography,6.3,530.0,96.0
+Lulu in Turin,biography,8.5,6.0,76.0
+Harta Tahta Raisa,biography,4.1,73.0,110.0
+Don't Ever Stop,biography,9.4,37.0,85.0
+"Mary, Marianna, Maria: The Unsung Greek Years of Callas",biography,7.7,19.0,103.0
+Yani Spanos: A Life Behind the Marquee,biography,7.7,21.0,118.0
+House of Ga'a,biography,4.0,501.0,119.0
+All Access to Rossa 25 Shining Years,biography,8.7,66.0,91.0
+"Iki Gözüm Ahmet, Sürgün",biography,3.6,143.0,113.0
+ZEF: The Story of Die Antwoord,biography,7.4,975.0,90.0
+Gundi: Legend of Love,biography,8.9,5871.0,166.0
+Yaremchuk: Matchless World of Beauty,biography,8.6,530.0,92.0
+Freedom,biography,5.9,1593.0,110.0
+The Beach Boys,biography,7.1,2450.0,113.0
+The Ballad of John and Yoko,biography,8.7,23.0,101.0
+Prodigies,biography,6.6,388.0,101.0
+Vivekam,biography,8.1,310.0,104.0
+"Georges Pompidou, la cruauté du pouvoir",biography,7.2,8.0,104.0
+Basketball Jones: The First Chapter,biography,7.9,11.0,
+Beethoven's Nine: Ode to Humanity,biography,7.5,16.0,90.0
+Ninety Minutes Later,biography,7.6,11.0,88.0
+The Researcher,biography,6.4,9.0,71.0
+Not Taken: Origins,biography,9.0,9.0,69.0
+Chhava,biography,8.4,2268.0,51.0
+Thirty Years with the Whip,biography,6.0,7.0,89.0
+To Our Friends,biography,7.5,18.0,90.0
+Luiz Melodia: No Coração do Brasil,biography,7.8,42.0,75.0
+Avicii - I'm Tim,biography,7.7,8121.0,95.0
+McVeigh,biography,4.4,806.0,90.0
+Sabbath Queen,biography,7.6,80.0,105.0
+Under the Grey Sky,biography,7.0,80.0,81.0
+Beethoven's Nine: Ode to Humanity,biography,6.9,30.0,85.0
+Stevie Van Zandt: Disciple,biography,7.9,737.0,147.0
+I'm Your Venus,biography,7.1,653.0,85.0
+Liza: A Truly Terrific Absolutely True Story,biography,7.5,668.0,104.0
+Lula,biography,5.4,233.0,90.0
+A Dangerous Boy,biography,6.6,162.0,90.0
+Brev til Håkon Banken,biography,8.2,31.0,80.0
+Nebesko,biography,5.1,13.0,73.0
+"Jacques Demy, the Pink and the Black",biography,6.9,19.0,88.0
+Faye,biography,7.1,3210.0,91.0
+"François Truffaut, My Life, a Screenplay",biography,7.1,64.0,98.0
+Il était une fois Michel Legrand,biography,7.6,80.0,109.0
+Chabuca,biography,6.7,274.0,113.0
+"Enescu, Skinned Alive",biography,5.0,183.0,
+MatPat the Movie,biography,9.0,28.0,
+Riefenstahl,biography,7.2,1602.0,115.0
+Hawala,biography,9.4,214.0,
+Nahir,biography,4.7,1212.0,122.0
+Art Spiegelman: Disaster Is My Muse,biography,7.8,146.0,98.0
+Concepción,biography,7.8,33.0,140.0
+Oscar Wilde About America,biography,4.1,42.0,98.0
+Charmian Clift: Life Burns High,biography,7.5,16.0,80.0
+The Luckiest Man in America,biography,6.2,6571.0,91.0
+Road Diary: Bruce Springsteen and the E Street Band,biography,7.7,1174.0,99.0
+Davaj Paradiso,biography,7.1,42.0,63.0
+Louis Riel or Heaven Touches the Earth,biography,5.0,10.0,
+Misty - The Erroll Garner Story,biography,7.3,55.0,100.0
+L'amore e la gloria - La giovane Deledda,biography,7.6,8.0,105.0
+Ol' Dirty Bastard: A Tale of Two Dirtys,biography,6.7,255.0,86.0
+Unfightable,biography,1.5,224.0,
+Rory Gallagher: Calling Card,biography,8.8,13.0,
+La herencia de Flora,biography,5.8,7.0,134.0
+Iyunskaya polyn,biography,8.1,10.0,79.0
+Bogart: Life Comes in Flashes,biography,6.8,543.0,99.0
+Kylie Minogue: Pop Icon,biography,5.6,15.0,50.0
+The Peanut Man,biography,5.6,86.0,89.0
+Greenwood Rising: The Rise of Black Wall Street,biography,7.1,112.0,
+Born to Be Wild: The Story of Steppenwolf,biography,7.1,73.0,100.0
+Maurice And I,biography,8.8,29.0,98.0
+It'll Never Work,biography,9.5,32.0,57.0
+Invention,biography,5.9,223.0,72.0
+"Dolly Parton: Bigger Hair, Bigger Heart",biography,7.1,17.0,60.0
+Diddy: Summit to Plummet,biography,2.4,228.0,60.0
+Reba McEntire: Country Gold,biography,7.4,12.0,60.0
+Stelios,biography,7.2,2243.0,132.0
+One to One: John & Yoko,biography,7.2,1438.0,101.0
+Miyazaki: Spirit of Nature,biography,7.0,425.0,84.0
+Project Alien Earth,biography,7.9,10.0,
+Unexplainable,biography,7.1,400.0,116.0
+Sunita,biography,9.0,10.0,
+The Man Who Loved UFOs,biography,5.3,675.0,107.0
+Blue Road: The Edna O'Brien Story,biography,7.7,120.0,99.0
+Marcella,biography,8.1,66.0,97.0
+Michael Jackson: Ungloved,biography,6.6,32.0,60.0
+Janet Jackson: In Control,biography,5.4,11.0,60.0
+Blake Edwards: A Love Story in 24 Frames,biography,7.5,85.0,
+Manyam Dheerudu,biography,6.2,4801.0,114.0
+Insula Fondane (Fondane Island),biography,9.0,12.0,82.0
+Gary,biography,6.6,594.0,91.0
+Paul Anka: His Way,biography,7.4,126.0,100.0
+The Legend of Sudarshan Chakra,biography,9.2,30.0,160.0
+Riv i hjertet,biography,7.1,53.0,107.0
+Sharon Stone: Survival Instinct,biography,6.7,102.0,52.0
+Sean Penn: The Outsider,biography,7.0,74.0,52.0
+Suzzanna: The Queen of Black Magic,biography,6.7,98.0,88.0
+John Cranko,biography,6.9,248.0,133.0
+The Divine Sarah Bernhardt,biography,6.3,505.0,98.0
+Maria,biography,4.2,22.0,60.0
+"Carville: Winning Is Everything, Stupid",biography,7.2,292.0,98.0
+The Bibi Files,biography,7.6,1808.0,115.0
+Hyper: The Stevie Hyper D Story,biography,8.8,32.0,91.0
+Sube a mi Nube,biography,6.0,67.0,110.0
+La Joia: Bad Gyal,biography,5.6,95.0,92.0
+Da Vinci,biography,8.3,101.0,81.0
+Beyaz Zenciler: Yapim Asamasi,biography,9.8,64.0,55.0
+Papa,biography,7.5,393.0,131.0
+A Bronx Tale: The Original One Man Show,biography,8.2,52.0,95.0
+Palace Guardians,biography,9.7,28.0,64.0
+Rhythm of a Flower,biography,7.0,16.0,81.0
+Becoming Hitchcock: The Legacy of Blackmail,biography,7.2,351.0,72.0
+Pensando ad Anna,biography,7.8,7.0,
+Giroud,biography,6.7,36.0,80.0
+Tura!,biography,8.3,48.0,105.0
+Waldo,biography,6.6,26.0,104.0
+Nonkonform,biography,7.7,30.0,117.0
+Ismo: Breaking Bad English,biography,7.1,319.0,98.0
+Rada,biography,8.8,5.0,73.0
+Carles Sabater. No espereu res de mi,biography,8.0,22.0,75.0
+Rinnans rival,biography,7.0,5.0,94.0
+Bir Cumhuriyet Sarkisi,biography,7.4,1831.0,128.0
+Looking for Simone,biography,7.0,44.0,93.0
+Janis Ian: Breaking Silence,biography,7.6,208.0,114.0
+Mr Bakhshdar,biography,2.7,13.0,60.0
+Ago,biography,8.0,9.0,80.0
+The Man Died,biography,2.5,24.0,105.0
+No More Trouble - Cosa rimane di una tempesta,biography,8.5,24.0,97.0
+Dogs of War,biography,6.9,54.0,90.0
+Graceball: The Story of Bobby Richardson,biography,6.8,9.0,54.0
+87 Candles,biography,9.1,11.0,55.0
+"Lupicinio Rodrigues, Confissões de um Sofredor",biography,7.7,10.0,99.0
+Giannis in the Cities,biography,7.2,35.0,90.0
+Un hombre libre,biography,7.1,44.0,88.0
+Toquinho: Encontros e um Violão,biography,8.8,6.0,90.0
+O familie aproape perfecta,biography,5.9,25.0,88.0
+¡Qué suerte hemos tenido!,biography,7.4,19.0,62.0
+Taghiev: Oil,biography,8.6,165.0,120.0
+Becoming Madonna,biography,6.8,607.0,91.0
+From Roger Moore with Love,biography,7.3,620.0,79.0
+Kai Jones' Falling into Place,biography,8.3,17.0,59.0
+Citizen Glenn,biography,8.5,106.0,55.0
+La valanga azzurra,biography,7.8,13.0,90.0
+Dr. Hedgewar,biography,7.1,18.0,160.0
+Zvanetskiy,biography,6.4,21.0,90.0
+Steven Spielberg - The New Hollywood Prodigy,biography,6.7,71.0,56.0
+Hola Frida,biography,6.8,138.0,82.0
+"À l'école de l'universel: Germaine Le Goff, l'histoire d'une pionnière",biography,7.8,8.0,53.0
+Alí Primera,biography,7.1,10.0,120.0
+La Grande,biography,9.1,45.0,95.0
+Maharaj,biography,6.5,15589.0,131.0
+30 to 45,biography,3.2,28.0,118.0
+Ordinary Angels,biography,7.4,18335.0,118.0
+Blues Run the Game: The Strange Tale of Jackson C. Frank,biography,5.7,9.0,
+Young Woman and the Sea,biography,7.5,19282.0,129.0
+A Photographic Memory,biography,7.3,75.0,87.0
+Dinner with Leatherface,biography,7.3,63.0,106.0
+The Fire Inside,biography,6.7,3458.0,109.0
+Ray of Hope,biography,7.5,13.0,105.0
+La Casa,biography,6.8,1220.0,83.0
+The Apprentice,biography,7.1,69554.0,122.0
+Pastor's Kid,biography,5.9,54.0,90.0
+Bob Marley: One Love,biography,6.2,37846.0,107.0
+Silvio,biography,3.1,592.0,114.0
+Satyashodhak,biography,8.2,392.0,145.0

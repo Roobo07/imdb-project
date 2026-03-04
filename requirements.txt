@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+streamlit>=1.30
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.13
+plotly>=5.18
+sqlalchemy>=2.0
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
+=======
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+sqlite3-binary
+>>>>>>> 92f9696 (Initial commit)

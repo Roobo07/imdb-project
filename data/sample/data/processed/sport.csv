@@ -1,0 +1,167 @@
+movie_name,genre,rating,votes,duration_minutes
+A Game of Two Halves,sport,7.1,25.0,100.0
+Arthur the King,sport,7.0,37702.0,107.0
+Phantom of the Ice,sport,7.1,757.0,108.0
+Loser is Winner,sport,7.4,569.0,90.0
+Qajymuqan,sport,4.8,11.0,
+Knock Out Blonde: The Kellie Maloney Story,sport,6.2,24.0,90.0
+Gabru Gang,sport,8.5,216.0,123.0
+Kulej. All That Glitters Isn't Gold,sport,6.4,387.0,148.0
+American Warrior,sport,4.5,159.0,93.0
+Rez Ball,sport,6.4,2865.0,111.0
+Pierce,sport,6.4,180.0,109.0
+Blue Star,sport,6.9,1618.0,166.0
+You Gotta Believe,sport,5.9,1712.0,104.0
+Heart of the Man,sport,6.1,31.0,85.0
+Mr. & Mrs. Mahi,sport,5.9,16215.0,139.0
+Puffing Iron,sport,8.1,22.0,98.0
+Race for Glory: Audi vs. Lancia,sport,5.8,5778.0,109.0
+Tracing the Divide,sport,7.9,196.0,84.0
+Cup,sport,8.6,99.0,146.0
+The Underdoggs,sport,5.6,4801.0,96.0
+Fight Like a Girl,sport,8.7,46.0,118.0
+Sweet Dreams,sport,5.5,1760.0,95.0
+My Sunshine,sport,7.0,1702.0,90.0
+Crakk: Jeetega... Toh Jiyegaa,sport,4.7,6586.0,154.0
+I am Al Ittihad,sport,4.9,234.0,90.0
+Lal Salaam,sport,4.5,1579.0,150.0
+The Champion,sport,5.5,988.0,106.0
+Hayatla Baris,sport,6.3,451.0,125.0
+The Final: Attack on Wembley,sport,6.3,2690.0,82.0
+Minor Leaguer,sport,5.1,107.0,77.0
+Padu,sport,5.3,89.0,97.0
+Friendly Fire,sport,5.9,75.0,105.0
+Lubber Pandhu,sport,8.1,8580.0,146.0
+GG (Good Game),sport,6.0,87.0,100.0
+Gold,sport,7.8,89.0,126.0
+Ice 3,sport,5.9,346.0,134.0
+Little Wing,sport,6.1,987.0,100.0
+Vijay 69,sport,6.1,1285.0,112.0
+Wingless,sport,7.1,276.0,110.0
+Game Changers,sport,4.7,251.0,78.0
+Julie Keeps Quiet,sport,6.5,1483.0,100.0
+Quote 10.35,sport,8.0,24.0,35.0
+Off the Line,sport,7.8,20.0,
+Dabaru,sport,7.9,685.0,131.0
+Kill the Jockey,sport,6.3,2763.0,96.0
+Eephus,sport,6.7,1955.0,99.0
+Faster: Only one lap,sport,7.1,24.0,90.0
+Runaway Wrestler,sport,7.2,22.0,105.0
+V potoke trekh stikhiy,sport,5.1,46.0,85.0
+Blue Lock: Episode Nagi,sport,6.6,3014.0,91.0
+Daley,sport,7.7,194.0,102.0
+Moon,sport,6.5,1006.0,92.0
+V de Victor,sport,5.0,86.0,100.0
+Harimau Malaya: The Untold Journey,sport,8.0,27.0,125.0
+Color of Victory,sport,6.1,40501.0,157.0
+Hatching Eagles,sport,6.9,23.0,63.0
+Golpe a Golpe (Blow by Blow),sport,8.1,22.0,90.0
+Veljko of the Sea,sport,7.4,18.0,53.0
+Snooker Man,sport,4.7,62.0,80.0
+Nayab,sport,7.4,280.0,153.0
+Numéro 10,sport,5.4,61.0,91.0
+Ice Cross: Life on the Edge,sport,7.9,28.0,90.0
+UFC 297: Strickland vs. du Plessis,sport,6.3,71.0,180.0
+UFC 299: O'Malley vs. Vera 2,sport,7.4,90.0,180.0
+"Traineras, pasión por el remo",sport,6.8,9.0,
+Pegasus 2,sport,6.9,1432.0,121.0
+"Surf on, Europe!",sport,7.3,27.0,92.0
+El Hareefa,sport,6.8,1350.0,117.0
+Giannis: The Marvelous Journey,sport,8.3,1936.0,109.0
+The First Women,sport,8.1,10.0,78.0
+The Unbreakable Tatiana Suarez,sport,6.6,176.0,78.0
+Samia,sport,6.8,228.0,102.0
+Diving Into the Darkness,sport,7.3,121.0,96.0
+Peleamos,sport,8.5,28.0,
+Parviz Khan,sport,5.9,241.0,110.0
+Graciano Rocchigiani - Das Herz eines Boxers,sport,9.1,53.0,123.0
+Keluar Main 1994,sport,7.8,59.0,112.0
+Roman Kostomarov. Rozhdennyy dvazhdy,sport,5.0,6.0,77.0
+Fedya. Narodnyy futbolist,sport,6.0,154.0,125.0
+I Am Kevin Harvick,sport,8.9,19.0,
+Free Falling,sport,5.2,355.0,89.0
+"Rylan: Homophobia, Football & Me",sport,5.6,25.0,
+Final Heat,sport,3.7,213.0,83.0
+Zlatan Ibrahimovic hyllningsmatch (Sweden vs Serbia),sport,6.6,7.0,170.0
+"Hai, Romania!",sport,8.1,436.0,98.0
+Federer: Twelve Final Days,sport,7.3,4469.0,88.0
+Take the Steps,sport,8.3,75.0,83.0
+Nasty,sport,7.7,1157.0,103.0
+Khapsyhyy,sport,5.4,7.0,90.0
+Battle of the Baddest,sport,6.0,100.0,61.0
+Takedown,sport,3.4,66.0,74.0
+Is University Really Worth It?,sport,5.1,12.0,60.0
+Sunshine,sport,7.4,354.0,91.0
+4 Zéros,sport,3.7,316.0,105.0
+Gundi: Legend of Love,sport,8.9,5871.0,166.0
+Fuchsia Libre,sport,5.0,68.0,112.0
+Basketball Jones: The First Chapter,sport,7.9,11.0,
+The Next Centimeter,sport,7.6,37.0,26.0
+Altitude FC: Rising Together,sport,9.0,8.0,
+Block Pass,sport,6.9,809.0,104.0
+The Spoils: Selling the Future of American Basketball,sport,7.6,11.0,87.0
+UFC 302: Makhachev vs. Poirier,sport,6.8,105.0,180.0
+UFC 303: Pereira vs. Prochazka 2,sport,6.1,76.0,195.0
+Boxer,sport,6.5,1506.0,150.0
+DitO,sport,5.4,25.0,117.0
+A Horse Named Winx,sport,8.7,108.0,117.0
+Doubles Match,sport,7.1,43.0,108.0
+In Inima Nationalei,sport,7.8,208.0,103.0
+Eclipse,sport,9.4,87.0,79.0
+All American,sport,8.9,23.0,87.0
+Passion of Iron,sport,9.3,17.0,
+Rafa Márquez: El Capitán,sport,6.6,212.0,82.0
+Chava. El ciclista del pueblo,sport,6.8,16.0,
+Trailblazers,sport,7.2,22.0,38.0
+Unfightable,sport,1.5,224.0,
+Beta Squad vs AMP Charity Match 2024,sport,8.8,10.0,210.0
+Episodes: Ukraine at the World Cup (2024),sport,8.1,76.0,79.0
+My Annoying Brother,sport,7.5,368.0,114.0
+Welcome to the J-Rod Show,sport,6.7,10.0,44.0
+The Incredibles,sport,9.3,121.0,
+The Tale of Texas Pool,sport,8.0,81.0,
+Linford,sport,7.4,155.0,89.0
+Untold: The Murder of Air McNair,sport,5.6,2296.0,57.0
+UFC 304: Edwards vs. Muhammad 2,sport,6.0,78.0,200.0
+Rhythm Masters: A Mickey Hart Experience,sport,7.1,22.0,
+Bartali's Bicycle,sport,7.5,11.0,80.0
+The Streak,sport,9.3,21.0,87.0
+Nos Amours: The Saga of the Montreal Expos,sport,6.0,31.0,92.0
+The Miranda Brothers,sport,4.4,203.0,99.0
+Challenger,sport,5.7,255.0,95.0
+Give It All,sport,5.6,32.0,95.0
+Topuria Matador,sport,7.1,202.0,95.0
+First Class: Full Speed!,sport,6.9,345.0,120.0
+Welcome Back,sport,7.6,9.0,119.0
+Anytime,sport,8.5,33.0,62.0
+Pay Dirt: The Story of Supercross,sport,6.7,35.0,91.0
+See Her Be Her,sport,7.3,30.0,110.0
+It's All Over: The Kiss That Changed Spanish Football,sport,7.0,715.0,95.0
+Giroud,sport,6.7,36.0,80.0
+Ice Fishing Hardcore: On the Road,sport,9.6,8.0,
+Impossible Journey,sport,3.5,12.0,
+Triumf,sport,7.7,8.0,113.0
+87 Candles,sport,9.1,11.0,55.0
+Quest for the Shield,sport,9.2,13.0,112.0
+We Believe,sport,2.3,64.0,78.0
+¡Qué suerte hemos tenido!,sport,7.4,19.0,62.0
+Together: 4-in-a-Row,sport,6.6,76.0,92.0
+El Hareefa 2: El Remontada,sport,6.3,719.0,130.0
+Argentina '78,sport,7.2,238.0,
+Unbreakable: England 2003,sport,8.1,38.0,66.0
+Undisputed,sport,6.8,124.0,64.0
+Deathgrip 2,sport,8.6,11.0,59.0
+Ski,sport,7.0,142.0,95.0
+Momentum: The story of Bernt Marius Rorstad,sport,7.1,15.0,71.0
+La valanga azzurra,sport,7.8,13.0,90.0
+Ice Aged,sport,6.3,9.0,110.0
+Big Water Theory,sport,7.9,21.0,83.0
+Unstoppable,sport,6.8,5025.0,116.0
+The Beautiful Game,sport,6.3,8680.0,125.0
+EFC,sport,7.6,1257.0,87.0
+Concussed: The American Dream,sport,7.6,56.0,
+The Fire Inside,sport,6.7,3458.0,109.0
+Las super estrellas de la lucha libre,sport,8.9,72.0,98.0
+Grace by Night,sport,6.6,60.0,136.0
+Home Plate,sport,5.1,10.0,85.0
+The Swedish Torpedo,sport,5.9,412.0,120.0

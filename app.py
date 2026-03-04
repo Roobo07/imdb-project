@@ -4,22 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-<<<<<<< HEAD
-# 1. Page configuration
-st.set_page_config(page_title="IMDb 2024 Movies Dashboard", layout="wide")
-
-st.title("🎬 IMDb 2024 Movies Analysis Dashboard")
-
-# 2. Database path
-=======
-st.set_page_config(
-    page_title="IMDb 2024 Movies Dashboard",
-    layout="wide"
-)
-
-st.title("🎬 IMDb 2024 Movies Analysis Dashboard")
-
->>>>>>> 92f9696 (Initial commit)
 DB_PATH = "imdb_2024.db"
 
 @st.cache_data

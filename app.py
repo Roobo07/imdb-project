@@ -10,7 +10,6 @@ st.set_page_config(page_title="IMDb 2024 Movies Dashboard", layout="wide")
 st.title("🎬 IMDb 2024 Movies Analysis Dashboard")
 
 # 2. Database path
-=======
 st.set_page_config(
     page_title="IMDb 2024 Movies Dashboard",
     layout="wide"
@@ -27,7 +26,6 @@ def load_data():
         st.stop()
     conn = sqlite3.connect(DB_PATH)
     # Loading exactly as it exists in your SQLite file
-=======
 
     conn = sqlite3.connect(DB_PATH)
     df = pd.read_sql("SELECT * FROM movies", conn)
@@ -43,7 +41,6 @@ st.sidebar.header("🎛 Filters")
 all_genres = sorted(set(g.strip() for genres in df["genre"].dropna().str.split(",") for g in genres))
 
 selected_genres = st.sidebar.multiselect("Select Genres", all_genres, default=all_genres)
-=======
 all_genres = sorted(
     set(
         g.strip()
@@ -64,7 +61,6 @@ min_dur, max_dur = st.sidebar.slider("Duration (minutes)", 0, 300, (60, 180))
 # ---------------- DATA FILTERING ----------------
 # Use 'duration_min' to match the schema shown in your database screenshot
 duration_col = "duration_min" if "duration_min" in df.columns else "duration_minutes"
-=======
 min_dur, max_dur = st.sidebar.slider(
     "Duration (minutes)", 0, 300, (60, 180)
 )
@@ -77,7 +73,6 @@ filtered_df = df[
 
 filtered_df = filtered_df[
     filtered_df["genre"].apply(lambda x: any(g in x for g in selected_genres) if isinstance(x, str) else False)
-=======
     (df["duration_minutes"].between(min_dur, max_dur))
 ]
 
@@ -151,7 +146,6 @@ st.subheader("📋 Full Movie Data")
 display_df = filtered_df.reset_index(drop=True)
 display_df.index = display_df.index + 1
 st.dataframe(display_df, use_container_width=True)
-=======
 
 c1.metric("🎥 Movies", len(filtered_df))
 c2.metric("⭐ Avg Rating", round(filtered_df["rating"].mean(), 2))

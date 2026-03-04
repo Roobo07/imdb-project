@@ -85,7 +85,6 @@ filtered_df = filtered_df[
 
 # ---------------- METRICS ----------------
 c1, c2, c3 = st.columns(3)
-<<<<<<< HEAD
 if not filtered_df.empty:
     c1.metric("🎥 Movies", len(filtered_df))
     c2.metric("⭐ Avg Rating", round(filtered_df["rating"].mean(), 2))

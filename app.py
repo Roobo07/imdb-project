@@ -68,12 +68,10 @@ duration_col = "duration_min" if "duration_min" in df.columns else "duration_min
 min_dur, max_dur = st.sidebar.slider(
     "Duration (minutes)", 0, 300, (60, 180)
 )
->>>>>>> 92f9696 (Initial commit)
 
 filtered_df = df[
     (df["rating"] >= min_rating) &
     (df["votes"] >= min_votes) &
-<<<<<<< HEAD
     (df[duration_col].between(min_dur, max_dur))
 ].copy()
 

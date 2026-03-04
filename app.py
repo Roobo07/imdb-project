@@ -61,3 +61,7 @@ if not filtered_df.empty:
     st.dataframe(top10[display_cols], use_container_width=True)
 else:
     st.warning("No movies match these filters.")
+# ---------------- DATA TABLE ----------------
+st.subheader("📋 Movie Data")
+st.dataframe(filtered_df, use_container_width=True)
+
